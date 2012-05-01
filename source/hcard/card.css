@@ -1,0 +1,78 @@
+body{
+  background-color: #F5F7E7;
+}
+.fn{
+  font-size: x-large;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.org{
+  font-size: large;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+.vcard {
+  padding: 15px 20px 20px;
+  
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border: 1px solid #C0C0C0;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.00, #D6D6D6), color-stop(0.11, #EBEBEB), color-stop(0.91, #D6D6D6), color-stop(1.00, #C0C0C0));
+	background: -moz-linear-gradient(top, #D6D6D6 0.00%, #EBEBEB 10.77%, #D6D6D6 90.96%, #C0C0C0 100.00%);
+	box-shadow: 2px 4px 3px #8B8B8B;
+	-webkit-box-shadow: 2px 4px 3px #8B8B8B;
+	-moz-box-shadow: 2px 4px 3px #8B8B8B;
+	text-align: left;
+	text-indent: 10px;
+	//color: #424242;
+  font: small "Helvetica Neue", Helvetica, Arial, sans-serif;
+  opacity: 0.7;
+}
+
+.vcard li{
+  list-style: none;
+  color: #000;
+  left: -60px;
+  opacity: 1;
+  
+}
+
+.vcard li li{
+  list-style: disc;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.vcard li.note{
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.vcard li a {
+display: block;
+padding-left: 15px;
+background: no-repeat 0 0px;
+height: 22px;
+margin-left: 10px;
+color: #27638C;
+}
+
+.vcard li.tel a.land{ 
+	background-image: url(http://www.eddypresent.be/sites/eddypresent.be/files/hcard/phone.gif);
+  
+}
+
+.vcard li.tel a.mobile{ 
+	background-image: url(http://www.eddypresent.be/sites/eddypresent.be/files/hcard/mobile.gif);
+}
+
+.vcard li.email a{ 
+	background-image: url(http://www.eddypresent.be/sites/eddypresent.be/files/hcard/mail.gif);
+}
+
+.vcard li.url a{ 
+	background-image: url(http://www.eddypresent.be/sites/eddypresent.be/files/hcard/web.gif);
+}

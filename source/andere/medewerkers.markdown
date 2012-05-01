@@ -1,0 +1,126 @@
+--- 
+layout: page
+title: Medewerkers
+created: 1330638827
+comments: false
+sharing: false
+footer: true
+---
+
+<ul id="hcard-Frank-Dejoncheere" class="vcard">
+	<li class="fn"><h3>Frank Dejoncheere</h3>
+	</li>
+	<li class="org">Sjatao
+	</li>
+	<li class="url">
+		<a href="http://www.sjatao.be">http://www.sjatao.be</a>
+	</li>
+	<li class="email">
+		<a href="mailto:sjatao@telenet.be">sjatao@telenet.be</a>
+	</li>
+	<li class="tel">
+		<a class="mobile" href="callto:+32475321168">+32 475 32 11 68</a>
+	</li>
+	<li class="note">
+		<ul>
+			<li>Taiji leraar – onder leiding van Eddy Present
+			</li>
+			<li>NAC Life coach
+			</li>
+			<li>VTS A-Sporttrainer/coach
+			</li>
+			<li>Mindfulnes/Meditatie coach
+			</li>
+		</ul>
+	</li>
+	<li class="note">Taiji lessen
+		<ul>
+			<li>maandag van 19:30 tot 21:00 half gevorderden (2<sup>de</sup> deel van de vorm)</li>
+			<li>dinsdag van 19:00 tot 20:30 half gevorderden (2<sup>de</sup> deel van de vorm) </li>
+			<li>dinsdag van 20:30 tot 22:00 beginners (1<sup>st</sup> deel van de vorm)</li>
+		</ul>lessen te Charleroyhoeve, Lierbaan in Grimbergen
+	</li>
+</ul>
+<ul id="hcard-Liliane-Baecke" class="vcard">
+	<li class="fn"><h3>Liliane Baecke</h3>
+	</li>
+	<li class="url">
+		<a href="http://www.dansstudio-flex.be/tai-chi">http://www.dansstudio-flex.be</a>
+	</li>
+	<li class="email">
+		<a href="mailto:debruynebettina@skynet.be">debruynebettina@skynet.be</a>
+	</li>
+	<li class="tel">
+		<a class="land" href="callto:+3237551357">+32 3 755 13 57</a>
+	</li>
+	<li class="tel">
+	  <a class="mobile" href="callto:+32474297305">+32 474 29 73 05</a>
+	</li>
+	<li class="note">
+		<ul>
+			<li>Taiji leraar
+			</li>
+		</ul>
+	</li>
+	<li class="note">Taiji lessen
+		<ul>
+			<li>donderdag van 19.30 tot 20.45 beginners
+			</li>
+			<li>donderdag van 20.15 tot 21.30 half gevorderd
+			</li>
+			<li>donderdag van 21.00 tot 22.15 gevorderd
+			</li>
+		</ul>lessen te Dansstudio ""Flex"", Pauwstraat 74 in Melsele
+	</li>
+</ul>
+<ul id="hcard-Mathieu-Meul" class="vcard">
+	<li class="fn"><h3>Mathieu Meul</h3>
+	</li>
+	<li class="url">
+		<a href="http://sites.google.com/site/mthtaichi">http://sites.google.com/site/mthtaichi</a>
+	</li>
+	<li class="email">
+		<a href="mailto:mth.taiji@gmail.com">mth.taiji@gmail.com</a>
+	</li>
+	<li class="tel">
+		<a class="mobile" href="callto:+32486210597">+32 486 21 05 97</a>
+	</li>
+	<li class="note">
+		<ul>
+			<li>Taiji leraar
+			</li>
+		</ul>
+	</li>
+	<li class="note">Taiji lessen
+		<ul>
+			<li>woensdag van 19:00 tot 20:30 beginners (1<sup>st</sup> deel van de vorm)
+			</li>
+			<li>woensdag van 20:00 tot 21:30 gevorderden (2<sup>de</sup> deel van de vorm)
+			</li>
+		</ul>lessen te Heilig Hartcollege, Landsroemlaan 126 in Ganshoren Brussel
+	</li>
+</ul>
+<ul id="hcard-Theo-VandenBoeck" class="vcard">
+	<li class="fn"><h3>Theo Van den Boeck</h3>
+	</li>
+	<li class="email">
+		<a href="mailto:theovandenboeck@skynet.be">theovandenboeck@skynet.be</a>
+	</li>
+	<li class="tel">
+		<a class="land" href="callto:+3254337419">+32 54 33 74 19</a>
+	</li>
+	<li class="note">
+		<ul>
+			<li>Taiji leraar
+			</li>
+		</ul>
+	</li>
+	<li class="note">Taiji lessen
+		<ul>
+			<li>maandag van 19u15 tot 20u45 te Baljuwhuis Marktplein 17 in Galmaarden
+			</li>
+			<li>Vrijdag van 19u tot 21u30 te Immaculata Maria Instituut, Kapelleweide 5 (Ingang nr1) in Roosdaal
+			</li>
+		</ul>
+	</li>
+</ul>
