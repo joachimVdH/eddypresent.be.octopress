@@ -8,13 +8,12 @@ footer: true
 ---
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
-* ###Mei 1: 12 mei tot 19 mei 2012 
+* ###Mei 1: 11 mei tot 18 mei 2013 
 
-* ###Mei 2: 19 mei tot 26 mei 2012 
+* ###Mei 2: 18 mei tot 25 mei 2013 
 
-* ###Augustus 1: 18 aug tot 25 aug 2012
+* ###Augustus 1: 17 aug tot 24 aug 2013
 
-* ###~~Augustus 2: 25 aug tot 1 sep 2012~~
 	
 ##Aarzel niet en schrijf in, de plaatsen zijn beperkt !
 
@@ -30,7 +29,7 @@ Op woensdag is er een halve vrije dag. We werken dan tot 12 h 00 en daarna is ie
 De laatste dag stoppen we om 17 h 00 zodat we het seminarie feestelijk kunnen afsluiten.  
 Op zaterdag vertrekt iedereen voor 10 h 00 weer naar huis.
 
-Je kan uiteraard deelnemen aan meerdere stages.
+**Je kan uiteraard deelnemen aan meerdere stages.**
 ##Praktisch
 
 * De totale prijs voor de stage bedraagt 630 &euro;. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
@@ -43,30 +42,32 @@ Een traiteur zal ons middagmaal en warme avondmaaltijd verzorgen. De keukenploeg
 
 Vervoer: Via TGV, Ryanair, eigen wagen of carpooling raak je ginder. Laat dus ook even weten hoe je wenst te reizen. Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers afspraken kunnen maken met elkaar. Het reizen regelen jullie zelf.
 
-**Let op : **Mensen die hun niet deelnemende partner willen meebrengen kunnen dat uiteraard. Diegenen die willen blijven voor een tweede verblijf zonder deelname, kunnen dat op voorwaarde dat er plaatsen open zijn. Deelnemers hebben hierop altijd voorrang.
+**Let op : **
+Mensen die hun niet deelnemende partner willen meebrengen kunnen dat uiteraard. Diegenen die willen blijven voor een tweede verblijf zonder deelname, kunnen dat op voorwaarde dat er plaatsen open zijn. Deelnemers hebben hierop altijd voorrang.
 
 Voor alle verdere informatie kan je mij altijd contacteren.
 ##Inschrijven en informatie
 
-Inschrijven kan bij Eddy. Zie wie ben ik en contact<br />
+Inschrijven kan bij Eddy. Zie [wie ben ik](../wie-ben-ik.html) en [contact](../contact.html)<br />
 Of even doorgeven op de lessen zelf
+
 ##Betalingen
 
 Bedragen te storten op : Europees rekeningnummer BE 24 7310 0528 3138 - BIC KREDBEBB
 Voorschot voor de stages:
 
-* Stages Mei 2012 &ndash; te storten voor 30 december 2011
-* Stages Augustus 2012 &ndash; te storten voor 30 maart 2012
+* Stages Mei 2013 &ndash; te storten voor 30 december 2012
+* Stages Augustus 2013 &ndash; te storten voor 30 maart 2013
 
 Resterend bedrag voor de stages:
 
-* Stages Mei 2012 &ndash; te storten voor 15 maart 2012
-* Stages Augustus 2012 &ndash; te storten voor 15 juni 2012
+* Stages Mei 2013 &ndash; te storten voor 15 maart 2013
+* Stages Augustus 2013 &ndash; te storten voor 15 juni 2013
 
 **Denk eraan:  
-Vermits er in 2011 weer een aantal mensen waren die zich hadden ingeschreven en nooit het voorschot hadden betaald en dan op het laatste moment hun deelname annuleerden, is je plaats pas verzekerd als het voorschot op tijd is gestort!  
-Zo niet gaat je plaats automatisch naar een andere deelnemer en vervalt jouw inschrijving.
+Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.
 **
+
 ##Belangrijk
 Geef ook, via e-mail, even al jullie adresgegevens, telefoonnummers en e-mailadressen door zodat iedereen bereikt kan worden. Meld ook hoe je wenst te reizen en of je een 2-persoonskamer wil als echtpaar.
 

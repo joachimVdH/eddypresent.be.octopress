@@ -18,14 +18,14 @@ Tegelijk ontstaat een dieper inzicht in het eigen lichaam en geest. De juiste li
 Voor allen die op zoek zijn naar harmonie en innerlijke rust en het bewustzijn naar een hoger niveau willen brengen: DOEN!
 
 ##Wanneer?
-* Zaterdag, 24 september 2011
-* Zaterdag, 22 oktober 2011
-* Zaterdag, 26 november 2011
-* Zaterdag, 17 december 2011
-* Zaterdag, 21 januari 2012
-* Zaterdag, 10 maart 2012
-* Zaterdag, 28 april 2012
-* Zaterdag, 09 juni 2012
+* Zaterdag, 22 september 2012
+* Zaterdag, 20 oktober 2012
+* Zaterdag, 17 november 2012
+* Zaterdag, 15 december 2012
+* Zaterdag, 19 januari 2013
+* Zaterdag, 23 maart 2013
+* Zaterdag, 27 april 2013
+* Zaterdag, 08 juni 2013
 
 ##Waar?
 Basisschool De Spreeuwen  
@@ -40,3 +40,7 @@ Zaterdag van 14 h 00 tot 17 h 00
 Per namiddag : 20 Euro  
 Het lesgeld wordt ter plaatse betaald.
 
+##Meebrengen
+* Matje
+* Zitkussen en deken
+* Iets te drinken

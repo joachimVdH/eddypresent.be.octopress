@@ -6,13 +6,16 @@ comments: false
 sharing: false
 footer: true
 ---
-##Intensief stage weekend op 10-11-12 februari 2012
-###In &ldquo;De Kluizerij&rdquo;&nbsp;&nbsp;Aalstersedreef 1, 1790 Affligem
+###Intensief stage weekend 
+* ###Van vrijdag 9 november tot zondag 11 november 2012
+* ###Van vrijdag 22 februari tot zondag 24 februari 2013
+
+####In &ldquo;De Kluizerij&rdquo;&nbsp;&nbsp;Aalstersedreef 1, 1790 Affligem
 Naar aanleiding van de intensieve TaiJi-stages in Frankrijk, kwam de vraag om een weekend-TaiJi, residentieel, te organiseren.  
 Bij deze kwam dit tot stand.  
 Het weekend gaat door in&nbsp;&ldquo;De Kluizerij&rdquo;&nbsp;in&nbsp;Affligem&nbsp;(omgeving Aalst) , een voormalig benedictijner klooster, gelegen in een prachtig domein, 6 hectare groot met boomgaard en tal van stille hoekjes.
 ##Programma
-Het weekend staat open voor diegene die de 1ste helft van het 2 deel van de vorm kennen.
+<!--Het weekend staat open voor diegene die de 1ste helft van het 2 deel van de vorm kennen.-->
 
 Vrijdag worden jullie verwacht vanaf 17u00  
 Er is een &ldquo;soep met brood&rdquo;maaltijd voorzien.
@@ -30,8 +33,8 @@ Inbegrepen:
 
 Het weekend kan doorgaan bij min. 18 en max. 26 inschrijvingen.(in de grootste zaal in De kluizerij kunnen max. 26 personen aan TaiJi doen)
 
-Reserveer je weekend tijdig aangezien de plaatsen beperkt zijn. De inschrijvingen en betalingen worden afgesloten tegen eind januari 2012.
-
+Reserveer je weekend tijdig aangezien de plaatsen beperkt zijn. <!--De inschrijvingen en betalingen worden afgesloten tegen eind januari 2012.
+-->
 Voor info en wegbeschrijving kan je terecht op de website van [De Kluizerij](http://www.dekluizerij.com)
 
 ##Inschrijven &amp; betalingen&nbsp;
@@ -47,7 +50,7 @@ vermeld volgende gegevens :&nbsp;Naam ,&nbsp;e-mailadres &amp; telefoonnummer
 ##Betalingen
 
 Bedragen te storten op rekeningnummer 833-3862549-73  
-met vermelding van uw **volledige naam** en **TaiJi2012/02**
+met vermelding van uw **volledige naam** en **TaiJi2012/11** en/of **TaiJi2013/02** 
 
-Het bedrag: &nbsp;290 &euro; te storten voor eind januari 2012
+Het bedrag: &nbsp;290 &euro; <!--te storten voor eind januari 2012-->
 

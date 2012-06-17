@@ -11,7 +11,7 @@ download de digitale folder : [Taiji Stage Casa Clara Oktober 2012.pdf - 5,1 Mb]
 ###Casa Clara in Moraira - Costa Blanca
 
 * ####Van zaterdag 29 september 2012 tot en met zaterdag 6 oktober 2012
-* ####Van zaterdag 6 oktober 2012 tot en met zaterdag 13 oktober 2012&nbsp;
+* ~~Van zaterdag 6 oktober 2012 tot en met zaterdag 13 oktober 2012&nbsp;~~
 	
 
 Sinds 2002 vinden er intensieve TaiJi stages plaats in het buitenland. Voor deze stage word gekozen voor een uniek priv&eacute;domein, met een verblijf in een luxe Finca en zomerhuis. Deze zijn gelegen in een ommuurd domein van 22000m2. Het domein is rustig gelegen op een heuvel boven Moraira met een schitterend uitzicht over het dal, de rots van Calp&eacute; en de Middellandse zee.  
