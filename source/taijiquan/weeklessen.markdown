@@ -17,7 +17,7 @@ footer: true
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.
 
 #Grimbergen
-[Agenda Grimbergen 2011-2012](/flyers/Agenda_Grimbergen_2012-2013.pdf)
+[Agenda Grimbergen 2012-2013](/flyers/Agenda_Grimbergen_2012-2013.pdf)
 
 Charleroyhoeve  
 Lierbaan  
@@ -36,7 +36,7 @@ Lierbaan
 
 
 #Mechelen
-[Agenda Mechelen 2011-2012](/flyers/Agenda_Mechelen_2012-2013.pdf)
+[Agenda Mechelen 2012-2013](/flyers/Agenda_Mechelen_2012-2013.pdf)
 
 Basisschool "De Spreeuwen"  
 Battelsesteenweg 259  
