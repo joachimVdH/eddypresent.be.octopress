@@ -8,7 +8,7 @@ footer: true
 ---
 
 ##Eén maandag elke maand
-Zwaardvorm : 19 h 00 tot 20 h 30
+Zwaardvorm : 20 h 00 tot 21 h 30
 
 * maandag 17 september 2012
 * maandag 15 oktober 2012
