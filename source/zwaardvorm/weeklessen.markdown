@@ -12,8 +12,8 @@ Zwaardvorm : 20 h 00 tot 21 h 30
 
 * maandag 17 september 2012
 * maandag 15 oktober 2012
-* maandag 19 november 2012
-* maandag 10 december 2012
+* maandag 26 november 2012
+* maandag 17 december 2012
 * maandag 14 januari 2013
 * maandag 18 februari 2013
 * maandag 18 maart 2013
