@@ -29,7 +29,7 @@ De totale prijs voor het weekend bedraagt &euro; 240  per persoon.
 Inbegrepen:
 
 * Sobere en sfeervolle tweepersoonskamers. Badkamers en toiletten op de gang.
-* De bio-vegetarische maaltijden worden in dagvers bereid.
+* Vegetarische als niet-vegetarische maaltijden.
 * Koffie/thee tijdens de pauze.
 
 Het weekend kan doorgaan bij min. 18 en max. 26 inschrijvingen.
