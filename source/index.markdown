@@ -13,10 +13,10 @@ De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.
 
 
 
-##Flyers
-* [Agenda Mechelen 2012-2013](/flyers/Agenda_Mechelen_2012-2013.pdf)  
-* [Agenda Grimbergen 2012-2013](/flyers/Agenda_Grimbergen_2012-2013.pdf) 
-* [Taiji Stage Casa Clara Oktober 2012](http://www.sjatao.be/pdf/taichi_stage_spanje_2012.pdf)   
+##Jaaroverzicht
+* [Download Agenda Mechelen 2012-2013 - pdf - 56kb](/flyers/Agenda_Mechelen_2012-2013.pdf)  
+* [Download Agenda Grimbergen 2012-2013 - pdf - 56kb](/flyers/Agenda_Grimbergen_2012-2013.pdf) 
+<!--* [Taiji Stage Casa Clara Oktober 2012](http://www.sjatao.be/pdf/taichi_stage_spanje_2012.pdf)-->   
 
 
 ---

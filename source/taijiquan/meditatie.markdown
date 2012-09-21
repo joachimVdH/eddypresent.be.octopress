@@ -19,12 +19,12 @@ Voor allen die op zoek zijn naar harmonie en innerlijke rust en het bewustzijn n
 
 ##Wanneer?
 * Zaterdag, 22 september 2012
-* Zaterdag, 20 oktober 2012
+* ~~Zaterdag, 20 oktober 2012~~ -> Zaterdag, 13 oktober 2012
 * Zaterdag, 17 november 2012
 * Zaterdag, 15 december 2012
 * Zaterdag, 19 januari 2013
 * Zaterdag, 23 maart 2013
-* Zaterdag, 27 april 2013
+* ~~Zaterdag, 27 april 2013~~ -> Zaterdag, 20 april 2013
 * Zaterdag, 08 juni 2013
 
 ##Waar?
