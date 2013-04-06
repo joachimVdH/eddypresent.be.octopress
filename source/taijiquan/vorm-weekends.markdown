@@ -21,7 +21,7 @@ De mogelijkheid bestaat ook om slechts één van deze twee dagen mee te doen.
 
 ##Wanneer?
 * 1 &ndash; 2 december 2012 &ndash; Eerste stuk tweede deel van de vorm
-* 9 &ndash; 10 maart 2013 &ndash; Tweede stuk tweede deel van de vorm
+* ~~9 &ndash; 10 maart 2013 &ndash; Tweede stuk tweede deel van de vorm~~
 
 
 ##Waar?

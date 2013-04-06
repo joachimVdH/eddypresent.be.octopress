@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 # root: /
-root: /4d/eddypresent
+root: /host/0B3x2n3kS4sKPT1lhTXJ6a29VOFE
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
