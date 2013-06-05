@@ -18,14 +18,16 @@ Tegelijk ontstaat een dieper inzicht in het eigen lichaam en geest. De juiste li
 Voor allen die op zoek zijn naar harmonie en innerlijke rust en het bewustzijn naar een hoger niveau willen brengen: DOEN!
 
 ##Wanneer?
-* Zaterdag, 22 september 2012
-* ~~Zaterdag, 20 oktober 2012~~ -> Zaterdag, 13 oktober 2012
-* ~~Zaterdag, 17 november 2012~~
-* Zaterdag, 15 december 2012
-* Zaterdag, 19 januari 2013
-* Zaterdag, 23 maart 2013
-* ~~Zaterdag, 27 april 2013~~ -> Zaterdag, 20 april 2013
-* Zaterdag, 08 juni 2013
+
+* Zaterdag,  8 juni 2013
+* Zaterdag, 21 september 2013
+* Zaterdag, 12 oktober 2013
+* Zaterdag, 23 november 2013
+* Zaterdag, 25 januari 2014
+* Zaterdag, 22 februari 2014
+* Zaterdag, 29 maart 2014
+* Zaterdag,  3 mei 2014
+* Zaterdag,  7 juni 2014
 
 ##Waar?
 Basisschool De Spreeuwen  

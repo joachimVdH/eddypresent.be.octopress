@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Zwaarvorm lessen
+title: Zwaardvorm lessen
 created: 1277023146
 comments: false
 sharing: false
@@ -8,17 +8,18 @@ footer: true
 ---
 
 ##Eén maandag elke maand
-Zwaardvorm : 20 h 00 tot 21 h 30
+Zwaardvorm : 19:30 tot 21:30
 
-* maandag 17 september 2012
-* maandag 15 oktober 2012
-* ~~maandag 19 november 2012~~ -> maandag 26 november 2012
-* ~~maandag 10 december 2012~~ -> maandag 17 december 2012
-* maandag 14 januari 2013
-* ~~maandag 18 februari 2013~~
-* maandag 18 maart 2013
-* maandag 22 april 2013
 * maandag 17 juni 2013
+* maandag 23 september 2013
+* maandag 21 oktober 2013
+* maandag 25 november 2013
+* maandag 16 december 2013
+* maandag 27 januari 2014
+* maandag 24 februari 2014
+* maandag 24 maart 2014
+* maandag 12 mei 2014
+* maandag 9 juni 2014
 
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen.   

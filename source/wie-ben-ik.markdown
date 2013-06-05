@@ -7,11 +7,11 @@ sharing: false
 footer: true
 ---
 
-Eddy Present is een **professionele** lesgever. Hij beoefent al 34 jaar lang Taiji en geeft al 24 jaar les op verschillende plaatsen in het land.
+Eddy Present is een **professionele** lesgever. Hij beoefent al 35 jaar lang Taiji en geeft al 25 jaar les op verschillende plaatsen in het land.
 
 Op het BuQi-instituut behaalde hij het diploma en het certificaat van BuQi-healer.  
 Hij volgde TaiJiQuan, Taiji37, QiGong, en de TaiJi-zwaardvorm bij de bekende Grootmeester Dr. Shen HongXun.  
-Hij bekwaamt zich nu nog steeds verder bij de Energie Meester Ratu Bagus in Bali.
+Hij bekwaamt zich nu nog steeds verder bij de [Energie Meester Ratu Bagus](http://www.ratubagus.com) in Bali.
 
 Eddy Present geeft ook therapeutische sessies voor al jouw problemen (op afspraak) :
 

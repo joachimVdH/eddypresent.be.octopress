@@ -1,2 +1,22 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+table{
+	margin-bottom: 2em;
+	
+	td,th{
+		padding: 0.5em;
+		text-align: center;
+		
+		border: dotted thin #999;
+		 
+	}
+	th{
+		font-weight: 700;
+		font-size: larger;
+	}	
+}
+
+aside.sidebar a {
+	color: #1863a1;
+}

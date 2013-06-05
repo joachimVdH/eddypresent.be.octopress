@@ -7,17 +7,22 @@ sharing: false
 footer: true
 ---
 
-####De website bevat de informatie voor seizoen september 2012 tot augustus 2013
+####De website bevat de informatie voor seizoen september 2013 tot augustus 2014
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
+###[!!! Nieuwe cursus :  De natuur van bewustzijn !!!](/taijiquan/natuur-bewustzijn.html)
 
+
+##Eddy geeft een feest !!! - [schrijf hier in](/feest.html) 
+
+---
 
 ##Jaaroverzicht
-* [Download Agenda Mechelen 2012-2013 - pdf - 56kb](/flyers/Agenda_Mechelen_2012-2013.pdf)  
-* [Download Agenda Grimbergen 2012-2013 - pdf - 56kb](/flyers/Agenda_Grimbergen_2012-2013.pdf) 
+* [Download De natuur van bewustzijn 2013-14 - pdf - 79kb](/flyers/De_natuur_van_bewustzijn_2013-14.pdf)  
+* [Download Agenda Mechelen 2013-2014 - pdf - 128kb](/flyers/Agenda_Mechelen_2013-2014.pdf)  
+* [Download Agenda Grimbergen 2013-2014 - pdf - 180kb](/flyers/Agenda_Grimbergen_2013-2014.pdf) 
 <!--* [Taiji Stage Casa Clara Oktober 2012](http://www.sjatao.be/pdf/taichi_stage_spanje_2012.pdf)-->   
-
 
 ---
 

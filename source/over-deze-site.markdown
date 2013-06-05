@@ -9,6 +9,7 @@ footer: true
 
 Deze site is met liefde gemaakt door Joachim [http://www.4d.be](http://www.4d.be)  
 
-Deze site is gemaakt met [Octopress](http://octopress.org)
+De motor onder de site is [Octopress](http://octopress.org)
+en [Github](https://github.com) zorgt dat ze tot bij u geraakt !
 
 

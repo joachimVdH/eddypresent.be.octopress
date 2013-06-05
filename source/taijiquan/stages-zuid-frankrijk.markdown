@@ -8,12 +8,18 @@ footer: true
 ---
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
-* ###Mei 1: 11 mei tot 18 mei 2013 
+* ###Augustus: 17 aug tot 24 aug 2013
 
-* ###Mei 2: 18 mei tot 25 mei 2013 
+* ####*!!!* Mei 1: 17 mei tot 24 mei 2014  *!!!* 
 
-* ###Augustus 1: 17 aug tot 24 aug 2013
+* ###Mei 2: 24 mei tot 31 mei 2014 
 
+* ###Augustus: 16 aug tot 23 aug 2014
+
+ *!!! Pas als **Mei 2 volzet** is, kan Mei 1 plaats hebben.   
+**Volzet** wil zeggen **23** mensen.  
+Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.  
+Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan*** 
 	
 ##Aarzel niet en schrijf in, de plaatsen zijn beperkt !
 
@@ -32,15 +38,15 @@ Op zaterdag vertrekt iedereen voor 10 h 00 weer naar huis.
 **Je kan uiteraard deelnemen aan meerdere stages.**
 ##Praktisch
 
-* De totale prijs voor de stage bedraagt 630 &euro;. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
-* Een voorschot van 180 &euro; wordt gevraagd. Pas na ontvangst ervan is jullie plaats verzekerd. Zoniet komt de plaats automatisch terug vrij. Het voorschot is niet recupereerbaar.
+* De totale prijs voor de stage bedraagt **650 &euro;**. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
+* Een voorschot van **200 &euro;** wordt gevraagd. **Pas na ontvangst** ervan is jullie plaats **verzekerd**. Zoniet komt de plaats automatisch terug vrij. Het voorschot is niet recupereerbaar.
 * Wie een 2-persoonskamer wil, betaalt daarvoor 100 &euro;/kamer extra.
 * Lakens kan je ter plaatse verkrijgen voor 5 &euro;.
 
 
 Een traiteur zal ons middagmaal en warme avondmaaltijd verzorgen. De keukenploeg verzorgt ons ontbijt en versnaperingen. Het meeste werk zal door de keukenploeg worden gedaan maar wat hulp is altijd welkom bij het dekken en afruimen. Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit.
 
-Vervoer: Via TGV, Ryanair, eigen wagen of carpooling raak je ginder. Laat dus ook even weten hoe je wenst te reizen. Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers afspraken kunnen maken met elkaar. Het reizen regelen jullie zelf.
+**Vervoer: ** Via TGV, Ryanair, eigen wagen of carpooling raak je ginder. Laat dus ook even weten hoe je wenst te reizen. Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers afspraken kunnen maken met elkaar. Het reizen regelen jullie zelf.
 
 **Let op : **
 Mensen die hun niet deelnemende partner willen meebrengen kunnen dat uiteraard. Diegenen die willen blijven voor een tweede verblijf zonder deelname, kunnen dat op voorwaarde dat er plaatsen open zijn. Deelnemers hebben hierop altijd voorrang.
@@ -53,16 +59,19 @@ Of even doorgeven op de lessen zelf
 
 ##Betalingen
 
-Bedragen te storten op : Europees rekeningnummer BE 24 7310 0528 3138 - BIC KREDBEBB
+Bedragen te storten op   
+Europees rekeningnummer : BE 24 7310 0528 3138 -   
+BIC : KREDBEBB
+
 Voorschot voor de stages:
 
-* Stages Mei 2013 &ndash; te storten voor 30 december 2012
-* Stages Augustus 2013 &ndash; te storten voor 30 maart 2013
+* Stages Mei 2014 &ndash; te storten voor 30 december 2013
+* Stages Augustus 2014 &ndash; te storten voor 30 maart 2014
 
 Resterend bedrag voor de stages:
 
-* Stages Mei 2013 &ndash; te storten voor 15 maart 2013
-* Stages Augustus 2013 &ndash; te storten voor 15 juni 2013
+* Stages Mei 2014 &ndash; te storten voor 15 maart 2014
+* Stages Augustus 2014 &ndash; te storten voor 15 juni 2014
 
 **Denk eraan:  
 Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.

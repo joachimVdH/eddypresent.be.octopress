@@ -7,51 +7,83 @@ sharing: false
 footer: true
 ---
 
-|maandag|dinsdag|woensdag|donderdag|vrijdag|
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-|       |       |       |       |14:00-15:30 gevorderd Grimbergen|
-|20:00-21:30 **Zwaardvorm** Mechelen|18:30-20:00 halfgevorderd Mechelen|18:45-20:15 vergevorderd Grimbergen|18:30-20:00 gevorderd Mechelen|18:45-20:15 gevorderd Grimbergen|
-||20:15-21:45 **Beginners** Mechelen|20:30-22:00 Halfgevorderd Grimbergen|20:15-21:45 vergevorderd Mechelen|20:30-22:00 vergevorderd Grimbergen|
-  
+####De website bevat de informatie voor seizoen september 2013 tot augustus 2014
+
+<table>
+<thead>
+<tr>
+	<th colspan=2>maandag</th>
+	<th>dinsdag</th>
+	<th>woensdag</th>
+	<th>donderdag</th>
+	<th>vrijdag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td colspan=2>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>14:00-15:30 Gevorderd Grimbergen </td>
+</tr>
+<tr>
+	<td>18:45-20:15 <strong>Beginners</strong> Grimbergen </td>
+	<td rowspan=2 >19:30-21:30 <strong>Zwaardvorm</strong> Mechelen </td>
+	<td>18:30-20:00 Gevorderd Mechelen </td>
+	<td>18:45-20:15 Vergevorderd Grimbergen </td>
+	<td>18:30-20:00 Gevorderd Mechelen </td>
+	<td>18:45-20:15 Gevorderd Grimbergen </td>
+</tr>
+<tr>
+	<td>20:30-22:00 Halfgevorderd Grimbergen </td>
+	<td> 20:15-21:45 Halfgevorderd Mechelen </td>
+	<td> 20:30-22:00 Gevorderd Grimbergen </td>
+	<td> 20:15-21:45 Vergevorderd Mechelen </td>
+	<td> 20:30-22:00 Vergevorderd Grimbergen </td>
+</tr>
+</tbody>
+</table>
+
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken meebrengen is altijd verstandig.
 
 #Grimbergen
-[Download Agenda Grimbergen 2012-2013 - pdf - 56kb](/flyers/Agenda_Grimbergen_2012-2013.pdf)
+[Download Agenda Grimbergen 2013-2014 - pdf - 56kb](/flyers/Agenda_Grimbergen_2013-2014.pdf)
 
-Charleroyhoeve  
-Lierbaan  
-1850 Grimbergen
+[Charleroyhoeve, Lierbaan, Grimbergen](https://maps.google.be/maps?q=Charleroyhoeve&hl=en&cid=8409502946449306745&gl=BE&t=m&z=16&iwloc=A)
 
 ###Elke woensdagavond
-* Vergevorderd : 18 h 45 tot 20 h 15
-* Half-gevorderd : 20 h 30 tot 22 h 00
+* Beginners : 18:45 tot 20:15
+* Halfgevorderd : 20:30 tot 22:00
+
+###Elke woensdagavond
+* Vergevorderd : 18:45 tot 20:15
+* Gevorderd : 20:30 tot 22:00
 
 ###Elke vrijdagmiddag
-* Gevorderd: 14 h 00 tot 15 h 30
+* Gevorderd: 14:00 tot 15:30
 
 ###Elke vrijdagavond
-* Gevorderd: 18 h 45 tot 20 h 15
-* Vergevorderd: 20 h 30 tot 22 h 00
+* Gevorderd: 18:45 tot 20:15
+* Vergevorderd: 20:30 tot 22:00
 
 
 #Mechelen
-[Download Agenda Mechelen 2012-2013 - pdf - 56kb](/flyers/Agenda_Mechelen_2012-2013.pdf)
+[Download Agenda Mechelen 2013-2014 - pdf - 56kb](/flyers/Agenda_Mechelen_2013-2014.pdf)
 
-Basisschool "De Spreeuwen"  
-Battelsesteenweg 259  
-2800 Mechelen
+[Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16)
 
 ###Een maandagavond per maand
-* [Zwaardvorm](../zwaardvorm/weeklessen.html) 20 h 00 tot 21 h 30
+* [Zwaardvorm](../zwaardvorm/weeklessen.html) 19:30 tot 21 h 30
 
 ###Elke dinsdagavond
-* Half-gevorderd : 18 h 30 tot 20 h 00
-* Beginners : 20 h 15 tot 21 h 45
+* Gevorderd : 18:30 tot 20:00
+* Halfgevorderd : 20:15 tot 21:45
 
 ###Elke donderdagavond
-* Gevorderd: 18 h 30 tot 20 h 00
-* Vergevorderd: 20 h 15 tot 21 h 45
+* Gevorderd: 18:30 tot 20:00
+* Vergevorderd: 20:15 tot 21:45
 	
 #Lesgelden (BTW inbegrepen)
 * per les van 1,5 uur = 11 &euro;
