@@ -10,7 +10,6 @@ footer: true
 ##Eén maandag elke maand
 Zwaardvorm : 19:30 tot 21:30
 
-* maandag 17 juni 2013
 * maandag 23 september 2013
 * maandag 21 oktober 2013
 * maandag 25 november 2013

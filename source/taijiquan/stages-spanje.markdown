@@ -10,8 +10,8 @@ download de digitale folder : [Taiji Stage Spanje 2013.jpg - 161 kb](http://www.
 ####Wil je graag Tai Chi intensief en diepgaand beoefenen in de natuur van het zonnige Spanje?
 ###Casa Clara in Moraira - Costa Blanca - Spanje
 
-* ####van zaterdag 28 september t/m zaterdag 5 oktober 2013
-* ####van zaterdag 5 oktober t/m zaterdag 12 oktober 2013
+* ~~van zaterdag 28 september t/m zaterdag 5 oktober 2013~~
+* ~~van zaterdag 5 oktober t/m zaterdag 12 oktober 2013~~
 	
 
 Sinds 2002 vinden er intensieve TaiJi stages plaats in het buitenland. Voor deze stage word gekozen voor een uniek priv&eacute;domein, met een verblijf in een luxe Finca en zomerhuis. Deze zijn gelegen in een ommuurd domein van 22000m2. Het domein is rustig gelegen op een heuvel boven Moraira met een schitterend uitzicht over het dal, de rots van Calp&eacute; en de Middellandse zee.  

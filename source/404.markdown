@@ -1,0 +1,15 @@
+---
+layout: page
+title: "404"
+created: 2013-08-08 00:37
+comments: false
+sharing: false
+footer: true
+---
+
+
+Er is dus ergens iets fout gelopen. 
+
+De pagina die u zocht, bestaat niet meer of het adres is fout.
+
+Probeer een van de linken in het menu.

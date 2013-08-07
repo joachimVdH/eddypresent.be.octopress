@@ -19,7 +19,7 @@ Eddy Present geeft ook therapeutische sessies voor al jouw problemen (op afspraa
 * Gesprekstherapie
 * Re-integratietherapie
 
-Elk jaar worden er ook [Taijiquan vorm weekends](/taijiquan/vorm-weekends.html) en [seminaries in het Zuiden van Frankrijk](/taijiquan/stages-zuid-frankrijk.html) georganiseerd waarin we intensief en diepgaand ingaan op Taiji en Qi (energie).
+Elk jaar worden er ook [Taijiquan vorm weekends](/taijiquan/stages-hoepertingen.html) en [seminaries in het Zuiden van Frankrijk](/taijiquan/stages-zuid-frankrijk.html) georganiseerd waarin we intensief en diepgaand ingaan op Taiji en Qi (energie).
 
 Deze weekends zijn zeer gewild vanwege hun diepgaand effect op lichaam en geest.  
 Ook [meditatie sessies](taijiquan/meditatie.html) worden regelmatig georganiseerd.  

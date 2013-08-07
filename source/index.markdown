@@ -20,9 +20,8 @@ De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.
 
 ##Jaaroverzicht
 * [Download De natuur van bewustzijn 2013-14 - pdf - 79kb](/flyers/De_natuur_van_bewustzijn_2013-14.pdf)  
-* [Download Agenda Mechelen 2013-2014 - pdf - 128kb](/flyers/Agenda_Mechelen_2013-2014.pdf)  
-* [Download Agenda Grimbergen 2013-2014 - pdf - 180kb](/flyers/Agenda_Grimbergen_2013-2014.pdf) 
-<!--* [Taiji Stage Casa Clara Oktober 2012](http://www.sjatao.be/pdf/taichi_stage_spanje_2012.pdf)-->   
+* [Download Agenda Mechelen 2013-2014 - pdf - 48kb](/flyers/Agenda_Mechelen_2013-2014.pdf)  
+* [Download Agenda Grimbergen 2013-2014 - pdf - 48kb](/flyers/Agenda_Grimbergen_2013-2014.pdf) 
 
 ---
 
