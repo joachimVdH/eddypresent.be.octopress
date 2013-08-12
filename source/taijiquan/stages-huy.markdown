@@ -7,10 +7,13 @@ sharing: false
 footer: true
 ---
 ###Intensief stage weekend 
-* ###Van vrijdag 9 november tot zondag 11 november 2012
-* ###Van vrijdag 22 februari tot zondag 24 februari 2013
+
+* ###Van vrijdag 15 november tot zondag 17 november 2013
 
 ####In het Tibetaans instituut "Yeunten Ling" te Huy.
+
+#Inhoud, organisatie en prijzen worden begin september 2013 aangepast
+ 
 
 Naar aanleiding van de intensieve TaiJi-stages in Frankrijk, kwam de vraag om een weekend-TaiJi, residentieel, te organiseren.  
 Bij deze kwam dit tot stand.  
@@ -50,7 +53,7 @@ vermeld volgende gegevens :&nbsp;Naam ,&nbsp;e-mailadres &amp; telefoonnummer
 ##Betalingen
 
 Bedragen te storten op rekeningnummer 833-3862549-73  
-met vermelding van uw **volledige naam** en **TaiJi2012/11** en/of **TaiJi2013/02** 
+met vermelding van uw **volledige naam** en **TaiJi2013/11** 
 
 Het bedrag: &nbsp;240 &euro;
 

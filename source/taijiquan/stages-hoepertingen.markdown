@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 ###Intensief stage weekend 
-* ###Van vrijdag 29 november tot zondag 1 december 2013
+
 * ###Van vrijdag 21 februari tot zondag 23 februari 2014
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
@@ -53,7 +53,7 @@ vermeld volgende gegevens :&nbsp;Naam ,&nbsp;e-mailadres &amp; telefoonnummer
 ##Betalingen
 
 Bedragen te storten op rekeningnummer 833-3862549-73  
-met vermelding van uw **volledige naam** en **TaiJi2013/11** en/of **TaiJi2014/02** 
+met vermelding van uw **volledige naam** en **TaiJi2014/02** 
 
 Het bedrag: &nbsp;240 &euro;
 
