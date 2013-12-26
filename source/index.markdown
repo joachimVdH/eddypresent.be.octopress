@@ -9,7 +9,6 @@ footer: true
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
-
 ---
 
 ##Jaaroverzicht
