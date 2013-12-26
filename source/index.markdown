@@ -6,15 +6,9 @@ comments: false
 sharing: false  
 footer: true
 ---
-
-####De website bevat de informatie voor seizoen september 2013 tot augustus 2014
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
-###[!!! Nieuwe cursus :  De natuur van bewustzijn !!!](/taijiquan/natuur-bewustzijn.html)
-
-
-##Eddy geeft een feest !!! - [schrijf hier in](/feest.html) 
 
 ---
 
@@ -34,4 +28,4 @@ Dr. Shen is heengegaan tijdens het reciteren van de mantra ***Namo Omi Dove***.
 
 ---
 
-[![Naturopathica](/images/naturopathica.jpg)](http://www.naturopathica.be/)
+[![Naturopathica](images/naturopathica.jpg)](http://www.naturopathica.be/)

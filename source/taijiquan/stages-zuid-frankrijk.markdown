@@ -8,11 +8,10 @@ footer: true
 ---
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
-* ###Augustus: 17 aug tot 24 aug 2013
 
-* ####*!!!* Mei 1: 17 mei tot 24 mei 2014  *!!!* 
+* ####*!!!* Mei 1: 17 mei tot 24 mei 2014 nog 21 plaatsen *!!!* 
 
-* ###Mei 2: 24 mei tot 31 mei 2014 
+* ###Mei 2: 24 mei tot 31 mei 2014 nog 6 plaatsen
 
 * ###Augustus: 16 aug tot 23 aug 2014
 
@@ -20,6 +19,10 @@ footer: true
 **Volzet** wil zeggen **23** mensen.  
 Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.  
 Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan*** 
+
+####Gelieve **voor 15 november 2013** in te schrijven zodat ik weet of ik de gite kan vastleggen voor Mei 1.   Mei 2 is al aangevraagd.
+  
+####Er wordt ook een **EIGEN kok** voorzien in plaats van een traiteur. De man is beroepskok dus het zal vers en smakelijk zijn. 
 	
 ##Aarzel niet en schrijf in, de plaatsen zijn beperkt !
 

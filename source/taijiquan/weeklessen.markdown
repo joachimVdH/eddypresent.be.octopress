@@ -53,7 +53,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://maps.google.be/maps?q=Charleroyhoeve&hl=en&cid=8409502946449306745&gl=BE&t=m&z=16&iwloc=A)
 
-###Elke woensdagavond
+###Elke maandagavond
 * Beginners : 18:45 tot 20:15
 * Halfgevorderd : 20:30 tot 22:00
 

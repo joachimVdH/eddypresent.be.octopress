@@ -8,52 +8,66 @@ footer: true
 ---
 ###Intensief stage weekend 
 
-* ###Van vrijdag 21 februari tot zondag 23 februari 2014
+* ###Van zaterdag 22 februari tot zondag 23 februari 2014
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
-
-#Inhoud, organisatie en prijzen worden begin september 2013 aangepast
  
+Het taiji weekend gaat door op een nieuwe locatie : Kasteel Mariagaarde in Hoepertingen.
+Het is een unieke stilteplek in het historisch kader van de vroegere waterburcht en het huidige 18de eeuws kasteel, omgeven door een park.
 
-Naar aanleiding van de intensieve TaiJi-stages in Frankrijk, kwam de vraag om een weekend-TaiJi, residentieel, te organiseren.  
-Bij deze kwam dit tot stand.  
-Het weekend gaat door in het Kasteel Mariagaarde te Hoepertingen.
 ##Programma
-<!--Het weekend staat open voor diegene die de 1ste helft van het 2 deel van de vorm kennen.-->
 
-Vrijdag worden jullie verwacht vanaf 17u00  
-Er is een "soep met brood" maaltijd voorzien.
+Het weekend gaat van start op zaterdagochtend om 10u30 en eindigt zondag rond 17u. 
+Taiji-en doen we in de '**bloesemzaal**', een grote zonlichte ruimte.
 
-Om 20u00 start Eddy het weekend met een meditatie.  
-Zaterdag beginnen we om 08u00 en het weekend loopt ten einde zondagavond om 17u00.
+Zaterdag:
+
+* Taiji om 10:30 tot 12:15 
+* middagmaal om 12:30 
+* Taiji van 14:00 tot 17:45 
+* avondmaal om 18:00 en 's avonds glaasje drinken aan de bar. 
+
+Zondag:   
+
+* ontbijt vanaf 08:00   
+* Taiji start om 09:30 tot 12:15  
+* middagmaal om 12:30   
+* Taiji van 14:00 tot 17:00
+
+Het weekend staat in het teken van het **eerste stuk van het tweede deel van de vorm**.
+
 ##	Praktisch
-De totale prijs voor het weekend bedraagt &euro; 240  per persoon.
 
-Inbegrepen:
+Logeren kan in een tweepersoonskamer of in een éénpersoonskamer. Alle kamers hebben eigen douche en toilet. Het aantal éénpersoonskamers is beperkt. 
 
-* Sobere en sfeervolle tweepersoonskamers. Badkamers en toiletten op de gang.
-* Vegetarische als niet-vegetarische maaltijden.
-* Koffie/thee tijdens de pauze.
+Op zaterdagochtend zijn jullie welkom vanaf 9u voor kamertoewijzing en sleutels. Het is niet nodig om lakens mee te brengen; voorzie wel je eigen (bad)handdoek.
 
-Het weekend kan doorgaan bij min. 18 en max. 26 inschrijvingen.
-Reserveer je weekend tijdig aangezien de plaatsen beperkt zijn. 
+De huisbereide maaltijden zijn niet-vegetarische en worden omschreven als 'degelijke en gezonde gastronomie'. Wie vegetarisch wil eten, dit kan; meld dit bij inschrijving. 
+
+Partners , echtgenote/echtgenoot die het weekend al wandelend of fietsend wil doorbrengen in de unieke Zuid-Limburgse natuur en omgeving zijn welkom. Hij/zij betaalt prijs van één overnachting in tweepersoonskamer en alle maaltijden. 
 
 Voor info en wegbeschrijving kan je terecht op de website van [Kasteel Mariagaarde](http://www.kasteelmariagaarde.be/)
 
-##Inschrijven &amp; betalingen&nbsp;
-De organisatie van dit weekend is in handen van Mia Fahy en Kristin Maesschalck.&nbsp;<br />Inschrijven kan via mail naar
 
-**kristin** punt **maesschalck** apestaartje **telenet** punt **be**<br />
-( tel: 015 / 43 11 64 -&nbsp;gsm: 0477 / 23 63 84 )
+
+##Inschrijven &amp; betalingen&nbsp;
+De organisatie van dit weekend is in handen van Mia Fahy.&nbsp;<br />Inschrijven kan via mail naar
 
 **mia** punt **fahy** apestaartje **telenet** punt **be**<br />
 ( tel: 015 / 27 80 05 -&nbsp;gsm: 0495 / 49 44 20 )
 
 vermeld volgende gegevens :&nbsp;Naam ,&nbsp;e-mailadres &amp; telefoonnummer
+
 ##Betalingen
 
-Bedragen te storten op rekeningnummer 833-3862549-73  
-met vermelding van uw **volledige naam** en **TaiJi2014/02** 
+A: logeren in een tweepersoonskamer: € **240**,-  
+Aplus: logeren in een 2persoonskamer met partner : € **310**,- voor beiden.  
+B: logeren in een éénpersoonskamer: € **255**,-
 
-Het bedrag: &nbsp;240 &euro;
+Voorschot en saldo kan je betalen op rekeningnummer **BE27 8333 8625 4973**.
+
+Voorschot van €100,- te betalen bij inschrijving;   
+Vermeld duidelijk je naam, **TAI JI FEB 2014** en de gewenste verblijfsformule (A, Aplus of B).
+
+Saldo graag ten laatste 9 februari 2014.
 
