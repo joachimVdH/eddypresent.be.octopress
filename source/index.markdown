@@ -9,6 +9,15 @@ footer: true
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
+
+##Geen les op woensdag 5 en 12 februari te Grimbergen
+ 
+##Geen les op donderdag 6 februari te Mechelen
+
+
+
+####De zaterdagnamiddag medities voor 2014 zijn geannuleerd. 
+
 ---
 
 ##Jaaroverzicht

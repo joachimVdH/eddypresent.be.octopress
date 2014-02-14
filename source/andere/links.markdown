@@ -14,6 +14,7 @@ footer: true
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
 * <a href="http://users.telenet.be/voetreflexologe" target="_blank">Carla Van Nimmen - Voetreflexologe</a>
 * <a href="http://www.shangri-la.be/" target="_blank">Taiji met Inge Van den Eynde</a>
+* <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
 
 ## TaijiQuan
 

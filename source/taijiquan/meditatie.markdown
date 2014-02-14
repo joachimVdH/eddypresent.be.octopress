@@ -22,10 +22,10 @@ Voor allen die op zoek zijn naar harmonie en innerlijke rust en het bewustzijn n
 * ~~Zaterdag, 21 september 2013~~
 * Zaterdag, 12 oktober 2013
 * ~~Zaterdag, 23 november 2013~~
-* Zaterdag, 25 januari 2014
-* Zaterdag, 29 maart 2014
-* Zaterdag, 26 april 2014
-* Zaterdag,  7 juni 2014
+* ~~Zaterdag, 25 januari 2014~~
+* ~~Zaterdag, 29 maart 2014~~
+* ~~Zaterdag, 26 april 2014~~
+* ~~Zaterdag,  7 juni 201~~4
 
 ##Waar?
 Basisschool De Spreeuwen  
