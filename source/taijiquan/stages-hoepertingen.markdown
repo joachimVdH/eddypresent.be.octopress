@@ -6,9 +6,10 @@ comments: false
 sharing: false
 footer: true
 ---
-###Intensief stage weekend 
+###Intensieve TaiJi-weekends 
 
-* ###Van zaterdag 22 februari tot zondag 23 februari 2014
+* ###Van zaterdag 29 november tot zondag 30 november 2014
+* ###Van zaterdag 7 maart tot zondag 8 maart 2015
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
  
@@ -34,11 +35,14 @@ Zondag:
 * middagmaal om 12:30   
 * Taiji van 14:00 tot 17:00
 
-Het weekend staat in het teken van het **eerste stuk van het tweede deel van de vorm**.
+Het weekend staat in het teken van :
+
+* november 14: deel 1 en het eerste stuk van deel 2 van de vorm
+* maart 15: het 2de stuk van deel 2 van de vorm
 
 ##	Praktisch
 
-Logeren kan in een tweepersoonskamer of in een éénpersoonskamer. Alle kamers hebben eigen douche en toilet. Het aantal éénpersoonskamers is beperkt. 
+Logeren kan in een twee- of driepersoonskamer of in een éénpersoonskamer. Alle kamers hebben eigen douche en toilet. Het aantal éénpersoonskamers is beperkt. 
 
 Op zaterdagochtend zijn jullie welkom vanaf 9u voor kamertoewijzing en sleutels. Het is niet nodig om lakens mee te brengen; voorzie wel je eigen (bad)handdoek.
 
@@ -51,23 +55,22 @@ Voor info en wegbeschrijving kan je terecht op de website van [Kasteel Mariagaar
 
 
 ##Inschrijven &amp; betalingen&nbsp;
-De organisatie van dit weekend is in handen van Mia Fahy.&nbsp;<br />Inschrijven kan via mail naar
-
-**mia** punt **fahy** apestaartje **telenet** punt **be**<br />
+De organisatie van dit weekend is in handen van Mia Fahy.&nbsp;<br />Inschrijven kan via mail naar <script type="text/javascript" language="javascript"><!--
+{ coded = "9Fq.Tqzm@yQJQkQy.GQ"; key = "zs0TnHIBomQ2UuJg75qOiREkp1YN9Vc3xt8SbjLFZADhCvfrd6X4yeKGwlWPMa"; shift=coded.length; link=""; for (i=0; i<coded.length; i++) { if (key.indexOf(coded.charAt(i))==-1) {ltr = coded.charAt(i); link += (ltr); } else { ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length; link += (key.charAt(ltr));}}document.write("<a href='mailto:"+link+"'>"+link+"</a>")} 
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+//-->
+</script><noscript>Sorry, geen Javascript, geen email adres.</noscript><br />
 ( tel: 015 / 27 80 05 -&nbsp;gsm: 0495 / 49 44 20 )
 
-vermeld volgende gegevens :&nbsp;Naam ,&nbsp;e-mailadres &amp; telefoonnummer
 
-##Betalingen
+A: logeren in een twee- of driepersoonskamer: € **255**,-  
+Aplus: logeren in een 2persoonskamer met partner : € **330**,- voor beiden.  
+B: logeren in een éénpersoonskamer: € **275**,-
 
-A: logeren in een tweepersoonskamer: € **240**,-  
-Aplus: logeren in een 2persoonskamer met partner : € **310**,- voor beiden.  
-B: logeren in een éénpersoonskamer: € **255**,-
-
-Voorschot en saldo kan je betalen op rekeningnummer **BE27 8333 8625 4973**.
+Voorschot en saldo kan je betalen op rekeningnummer **BE88 9731 1656 5641** , bic ARSPBE22
 
 Voorschot van €100,- te betalen bij inschrijving;   
-Vermeld duidelijk je naam, **TAI JI FEB 2014** en de gewenste verblijfsformule (A, Aplus of B).
-
-Saldo graag ten laatste 9 februari 2014.
-
+Vermeld duidelijk je naam, **TAI JI NOV 2014** en/of **TAI JI MRT 2015** en de gewenste verblijfsformule (A, Aplus of B).

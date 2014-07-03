@@ -10,11 +10,14 @@ footer: true
 
 ## Vrienden
 
+* <a href="http://taichimetkarinedutli.be" target="_blank">Tai Chi met Karine Dutli</a>
 * <a href="http://www.kristin-maesschalck.be/" target="_blank">Kristin Maesschalck - Shiatsu - Stoelmassage - Droomanalyse - Familieopstellingen</a>
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
 * <a href="http://users.telenet.be/voetreflexologe" target="_blank">Carla Van Nimmen - Voetreflexologe</a>
 * <a href="http://www.shangri-la.be/" target="_blank">Taiji met Inge Van den Eynde</a>
 * <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
+* <a href="http://www.tcqg.be" class="url">TaijiQuan &amp; QiGong met Mathieu Meul</a>
+* <a href="http://www.sjatao.be" class="url">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
 
 ## TaijiQuan
 

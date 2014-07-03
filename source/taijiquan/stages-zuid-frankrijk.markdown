@@ -9,18 +9,20 @@ footer: true
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
 
-* ####*!!!* Mei 1: 17 mei tot 24 mei 2014 nog 21 plaatsen *!!!* 
+* ####*!!!* Mei 1: 16 mei tot 23 mei 2015 *!!!* 
 
-* ###Mei 2: 24 mei tot 31 mei 2014 nog 6 plaatsen
+* ###Mei 2: 23 mei tot 30 mei 2015 
 
-* ###Augustus: 16 aug tot 23 aug 2014
+* ###Augustus : 15 to 22 augustus 2015
+
+
 
  *!!! Pas als **Mei 2 volzet** is, kan Mei 1 plaats hebben.   
-**Volzet** wil zeggen **23** mensen.  
+**Volzet** wil zeggen **21** mensen.  
 Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.  
 Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan*** 
 
-####Gelieve **voor 15 november 2013** in te schrijven zodat ik weet of ik de gite kan vastleggen voor Mei 1.   Mei 2 is al aangevraagd.
+####Schrijf in **voor 15 december 2014** zodat de gite kan vast gelegd worden.
   
 ####Er wordt ook een **EIGEN kok** voorzien in plaats van een traiteur. De man is beroepskok dus het zal vers en smakelijk zijn. 
 	
@@ -47,12 +49,12 @@ Op zaterdag vertrekt iedereen voor 10 h 00 weer naar huis.
 * Lakens kan je ter plaatse verkrijgen voor 5 &euro;.
 
 
-Een traiteur zal ons middagmaal en warme avondmaaltijd verzorgen. De keukenploeg verzorgt ons ontbijt en versnaperingen. Het meeste werk zal door de keukenploeg worden gedaan maar wat hulp is altijd welkom bij het dekken en afruimen. Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit.
+Een echte kok zal ons ontbijt, middagmaal en avondmaal ter plaatse verzorgen, we eten vegetqrisch. De keukenploeg help daarbij en verzorgt ook de versnaperingen.  Het meeste werk zal door de keukenploeg worden gedaan maar wat hulp is altijd welkom bij het afruimen en afwassen. Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit.
 
 **Vervoer: ** Via TGV, Ryanair, eigen wagen of carpooling raak je ginder. Laat dus ook even weten hoe je wenst te reizen. Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers afspraken kunnen maken met elkaar. Het reizen regelen jullie zelf.
 
 **Let op : **
-Mensen die hun niet deelnemende partner willen meebrengen kunnen dat uiteraard. Diegenen die willen blijven voor een tweede verblijf zonder deelname, kunnen dat op voorwaarde dat er plaatsen open zijn. Deelnemers hebben hierop altijd voorrang.
+Mensen die hun niet deelnemende partner willen meebrengen kunnen dat uiteraard (voor niet-deelnemers is de prijs 380 euro). Diegenen die willen blijven voor een tweede verblijf zonder deelname, kunnen dat op voorwaarde dat er plaatsen open zijn. Deelnemers hebben hierop altijd voorrang.
 
 Voor alle verdere informatie kan je mij altijd contacteren.
 ##Inschrijven en informatie
@@ -68,13 +70,13 @@ BIC : KREDBEBB
 
 Voorschot voor de stages:
 
-* Stages Mei 2014 &ndash; te storten voor 30 december 2013
-* Stages Augustus 2014 &ndash; te storten voor 30 maart 2014
+* Stages Mei 2015 &ndash; te storten voor 30 december 2014
+* Stages Augustus 2015 &ndash; te storten voor 30 maart 2015
 
 Resterend bedrag voor de stages:
 
-* Stages Mei 2014 &ndash; te storten voor 15 maart 2014
-* Stages Augustus 2014 &ndash; te storten voor 15 juni 2014
+* Stages Mei 2015 &ndash; te storten voor 15 maart 2015
+* Stages Augustus 2015 &ndash; te storten voor 15 juni 2015-->
 
 **Denk eraan:  
 Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.

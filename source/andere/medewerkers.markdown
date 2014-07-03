@@ -26,7 +26,7 @@ footer: true
 
 <ul id="hcard-Mathieu-Meul" class="vcard">
 	<h3 class="fn">Mathieu Meul</h3>
-		<a href="http://sites.google.com/site/mthtaichi" class="url">http://sites.google.com/site/mthtaichi</a>
+		<a href="http://www.tcqg.be" class="url">http://www.tcqg.be</a>
 		<ul class="note">
 			<li>Taiji leraar
 			</li>
