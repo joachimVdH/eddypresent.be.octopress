@@ -11,7 +11,6 @@ Eddy Present is een **professionele** lesgever. Hij beoefent meer dan 35 jaar la
 
 Op het BuQi-instituut behaalde hij het diploma en het certificaat van BuQi-healer.  
 Hij volgde TaiJiQuan, Taiji37, QiGong, en de TaiJi-zwaardvorm bij de bekende Grootmeester Dr. Shen HongXun.  
-Hij bekwaamt zich nu nog steeds verder bij de [Energie Meester Ratu Bagus](http://www.ratubagus.com) in Bali.
 
 Eddy Present geeft ook therapeutische sessies voor al jouw problemen (op afspraak) :
 
@@ -22,9 +21,6 @@ Eddy Present geeft ook therapeutische sessies voor al jouw problemen (op afspraa
 Elk jaar worden er ook [Taijiquan vorm weekends](/taijiquan/stages-hoepertingen.html) en [seminaries in het Zuiden van Frankrijk](/taijiquan/stages-zuid-frankrijk.html) georganiseerd waarin we intensief en diepgaand ingaan op Taiji en Qi (energie).
 
 Deze zijn zeer gewild vanwege hun diepgaand effect op lichaam en geest.  
-<!--Ook [meditatie sessies](taijiquan/meditatie.html) worden regelmatig georganiseerd.  
-Deze zijn erg geliefd vanwege het intens en bevrijdend karakter.<br />
--->
 ###<a id="inlichtingen" name="inlichtingen"></a>Voor alle inlichtingen
 
 Eddy Present  
