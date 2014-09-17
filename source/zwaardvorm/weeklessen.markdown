@@ -9,7 +9,7 @@ footer: true
 
 Zwaardvorm : 19:30 tot 21:30
 
-* donderdag 25 september 2014
+* ~~donderdag 25 september 2014~~ WEL Taijiquan les !!
 * donderdag 23 oktober 2014
 * donderdag 27 november 2014
 * donderdag 22 januari 2015

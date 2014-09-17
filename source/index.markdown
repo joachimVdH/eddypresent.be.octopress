@@ -9,6 +9,11 @@ footer: true
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
+### Lessen in Mechelen starten op dinsdag 16 september (ipv donderdag 11)
+
+### Donderdag 25 september GEEN zwaardvorm, WEL taijiquan lessen
+
+
 
 Hou uw agenda vrij op zaterdagavond 13 december, want er gaat een taiji dansfeest doorgaan !  
 Meer hierover later.
