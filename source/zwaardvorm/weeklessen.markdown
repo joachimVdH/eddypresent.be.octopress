@@ -26,8 +26,8 @@ Battelsesteenweg 259
 2800 Mechelen
 
 ##Lesgelden (BTW inbegrepen)
-* per les van 2 uur = 11 &euro;</li>
-* per 10 beurtenkaart = 100 &euro;</li>
+* per les van 2 uur = 13 &euro;</li>
+* per 10 beurtenkaart = 120 &euro;</li>
 Deze kaart is &eacute;&eacute;n kalenderjaar geldig
 Een factuur of een bewijs kan verkregen worden.  
 Vraag informatie!

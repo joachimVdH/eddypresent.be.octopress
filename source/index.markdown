@@ -9,22 +9,17 @@ footer: true
  
 De uren en plaatsen van de lessen vind je op [weeklessen](/taijiquan/weeklessen.html)
 
+Vanaf januari 2015 verhogen de prijzen voor de huur van de zalen drastisch.
+(in Grimbergen is de huurprijs zelfs meer dan verdrievoudigd!).
+Crisis, besparingen, gemeente heeft geld nodig, enz…
 
-### GEEN zwaardvorm lessen dit seizoen
+Door deze situatie zie ik me helaas verplicht om de lesprijzen te verhogen vanaf januari 2015:
 
-  
+* Per les: 13 Euro
+* Per 10-beurtenkaart 120 Euro
 
-![Dansfeest 13 december](/flyers/1412_Dansfeest_Flyer.jpg)  
-Hou uw agenda vrij op zaterdagavond 13 december, want er gaat een taiji dansfeest doorgaan !  
-Dit gaat door in ['t lepeltje Duffel, Naalstraat 43d](https://www.google.be/maps/place/Naalstraat+43,+2860+Duffel/@51.0944528,4.4692081,13z/data=!4m2!3m1!1s0x47c3e4cf775f01e5:0xfb2aa50dbf95692f)  
-Gelieve in te schrijven door storting van 5 euro op BE17 3770 5747 0921 voor 1 december  
-en een mailtje naar [spontanebeweging@gmail.com](mailto:spontanebeweging@gmail.com) met je 2 favoriete dansnummers.  
-Niet online, geen probleem. Je kan kan live terecht bij :
 
-* Gudrun Heymans
-* Ineke Kokshoorn
-* Karina Van Herck
-* Mieke van den Bossche
+<iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 ##Jaaroverzicht

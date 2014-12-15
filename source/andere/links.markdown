@@ -10,6 +10,7 @@ footer: true
 
 ## Vrienden
 
+* <a href="http://kindertalent.be/" target="_blank">Kindertalent met Léonie van Wissen</a>
 * <a href="http://taichimetkarinedutli.be" target="_blank">Tai Chi met Karine Dutli</a>
 * <a href="http://www.kristin-maesschalck.be/" target="_blank">Kristin Maesschalck - Shiatsu - Stoelmassage - Droomanalyse - Familieopstellingen</a>
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
