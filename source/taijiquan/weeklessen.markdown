@@ -7,8 +7,6 @@ sharing: false
 footer: true
 ---
 
-####De website bevat de informatie voor seizoen september 2014 tot augustus 2015
-
 <table>
 <thead>
 <tr>
@@ -32,7 +30,7 @@ footer: true
 	<td>18:45-20:15 Gevorderd Mechelen </td>
 	<td>18:45-20:15 Vergevorderd Grimbergen </td>
 	<td>18:45-20:15 Vergevorderd Mechelen </td>
-	<td rowspan=2 >19:30-21:30 <strong>Zwaardvorm</strong> Mechelen </td>
+	<td rowspan=2 ><s>19:30-21:30 <strong>Zwaardvorm</strong> Mechelen</s></td>
 	<td>18:45-20:15 Vergevorderd Grimbergen </td>
 </tr>
 <tr>
@@ -54,8 +52,8 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16)
 
-###Eén donderdagavond per maand
-* [Zwaardvorm](../zwaardvorm/weeklessen.html) 19:30 tot 21 h 30
+###~~Eén donderdagavond per maand~~
+* ~~[Zwaardvorm](../zwaardvorm/weeklessen.html) 19:30 tot 21 h 30~~
 
 ###Elke dinsdagavond
 * Gevorderd : 18:45 tot 20:15

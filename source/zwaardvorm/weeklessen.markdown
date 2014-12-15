@@ -10,11 +10,11 @@ footer: true
 Zwaardvorm : 19:30 tot 21:30
 
 * ~~donderdag 25 september 2014~~ WEL Taijiquan les !!
-* donderdag 23 oktober 2014
-* donderdag 27 november 2014
-* donderdag 22 januari 2015
-* donderdag 26 februari 2015
-* donderdag 19 maart 2015
+* ~~donderdag 23 oktober 2014~~ WEL Taijiquan les !!
+* ~~donderdag 27 november 2014~~ WEL Taijiquan les !!
+* ~~donderdag 22 januari 2015~~ WEL Taijiquan les !!
+* ~~donderdag 26 februari 2015~~ WEL Taijiquan les !!
+* ~~donderdag 19 maart 2015~~ WEL Taijiquan les !!
 
 Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen.   
 Iets om te drinken meebrengen is altijd verstandig.
