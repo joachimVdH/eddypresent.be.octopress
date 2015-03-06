@@ -21,6 +21,8 @@ Door deze situatie zie ik me helaas verplicht om de lesprijzen te verhogen vanaf
 
 <iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
 
+[![Sjatao Taiji voor jongeren](/flyers/2015-taichi-workshop-flyer.png)](http://www.sjatao.be/taichi_jongeren.html) 
+
 
 ##Jaaroverzicht
 * [Download Esoterie 2014-2015 - pdf - 159kb](/flyers/Esoterie_2014-2015.pdf) 
