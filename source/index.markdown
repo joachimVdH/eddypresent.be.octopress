@@ -7,40 +7,17 @@ sharing: false
 footer: true
 ---
 
-Volgende wijzigingen :
+Taiji in het Park in juli en augustus bij droog weer :
 
-* maandag 20 april les door Anne-Marie Vandenbossche
-* dinsdag 21 april GEEN les
-* dinsdag 12 mei les door Karine Dutli
-* woensdag 13 mei les door Anne-Marie Vandenbossche
-* donderdag 14 mei GEEN les
-* vrijdag 15 mei GEEN les
-* maandag 18 mei les door Anne-Marie Vandenbossche
-* dinsdag 19 mei les door Karine Dutli
-* woensdag 20 mei les door Anne-Marie Vandenbossche
-* donderdag 21 mei les door Karine Dutli
-* vrijdag 22 mei les door Anne-Marie Vandenbossche
-* maandag 1 juni GEEN les
-* dinsdag 2 juni GEEN les
-* woensdag 3 juni GEEN les
-* donderdag 11 juni GEEN les
-* vrijdag 12 juni GEEN les
-
-**zie ook de aangepaste agenda's**
-
-* [Download Agenda Mechelen 2015 - pdf - 25kb](/flyers/Agenda_Mechelen_2015.pdf)  
-* [Download Agenda Grimbergen 2015 - pdf - 25kb](/flyers/Agenda_Grimbergen_2015.pdf) 
+* Op maandagen in Grimbergen, meer informatie vind je op [sjatao](http://www.sjatao.be/taichi_guldendal.html)
+* Op dinsdagen in Mechelen. In [de verkeerstuin van het vrijbroekpark](https://www.google.be/maps/dir//51.0175696,4.4595763/@51.0172566,4.4593295,17z) om 19:30.
+* Op donderdagen in Brasschaat met Marc aan [het Kasteel van Brasschaat](https://www.google.com/maps/place/51%C2%B017%2721.4%22N+4%C2%B029%2749.8%22E/@51.289291,4.497171,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=nl) om 19u. 
 
 
+**zie ook de agenda's** 
 
-Vanaf januari 2015 verhogen de prijzen voor de huur van de zalen drastisch.
-(in Grimbergen is de huurprijs zelfs meer dan verdrievoudigd!).
-Crisis, besparingen, gemeente heeft geld nodig, enz…
-
-Door deze situatie zie ik me helaas verplicht om de lesprijzen te verhogen vanaf januari 2015:
-
-* Per les: 13 Euro
-* Per 10-beurtenkaart 120 Euro
+* [Download Agenda Mechelen 2015-2016 - pdf - 55kb](/flyers/Agenda_Mechelen_2015-2016.pdf)  
+* [Download Agenda Grimbergen 2015-2016 - pdf - 55kb](/flyers/Agenda_Grimbergen_2015-2016.pdf) 
 
 
 <iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
