@@ -16,8 +16,8 @@ footer: true
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
 * <a href="http://www.centrumojo.be/" target="_blank">Taiji met Inge Van den Eynde</a>
 * <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
-* <a href="http://www.tcqg.be" class="url">TaijiQuan &amp; QiGong met Mathieu Meul</a>
-* <a href="http://www.sjatao.be" class="url">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
+* <a href="http://www.tcqg.be" target="_blank">TaijiQuan &amp; QiGong met Mathieu Meul</a>
+* <a href="http://www.sjatao.be" target="_blank">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
 
 ## TaijiQuan
 
