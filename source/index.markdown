@@ -22,11 +22,13 @@ Deze info-avond is toegankelijk voor iedereen, en vooral geschikt en aanbevolen 
 
 **<a href="http://www.sjatao.be/ws-taichi.html" target="_blank">meer informatie en inschrijvingen via Sjatao</a>**
 
+### Dinsdag 24 november is er les in Mechelen
+
 
 **zie ook de agenda's** 
 
-* [Download Agenda Mechelen 2015-2016 - pdf - 55kb - last update : 4 okt](/flyers/Agenda_Mechelen_2015-2016.pdf)  
-* [Download Agenda Grimbergen 2015-2016 - pdf - 55kb - last update : 4 okt](/flyers/Agenda_Grimbergen_2015-2016.pdf) 
+* [Download Agenda Mechelen 2015-2016 - pdf - 55kb - laatste aanpassing : 8 nov '15](/flyers/Agenda_Mechelen_2015-2016.pdf)  
+* [Download Agenda Grimbergen 2015-2016 - pdf - 55kb - laatste aanpassing : 4 okt '15](/flyers/Agenda_Grimbergen_2015-2016.pdf) 
 
 
 <iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
