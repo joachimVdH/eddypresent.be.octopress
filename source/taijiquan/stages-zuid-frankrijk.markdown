@@ -9,11 +9,10 @@ footer: true
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
 
-* ####*!!!* Mei 1: 21 mei tot 28 mei 2016 *!!!* 
-
-* ###Mei 2: 28 mei tot 4 juni 2016 
-
-* ###Augustus : 20 to 27 augustus 2016
+* ####*!!!* Mei 1: 20 mei tot 27 mei 2017 *!!!* 
+* ###Mei 2: 27 mei tot 3 juni 2017 - Masterclass
+* ###Augustus : 12 to 19 augustus 2017 - Masterclass
+* ###Augustus : 19 to 26 augustus 2017
 
 
 
@@ -22,9 +21,8 @@ footer: true
 Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.  
 Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan*** 
 
-####Schrijf in **voor 15 december 2015** zodat de gite kan vast gelegd worden.
-  
-####Er wordt ook een **EIGEN kokkin** voorzien in plaats van een traiteur.  
+####Schrijf in **voor 15 december 2016** zodat de gite kan vast gelegd worden.
+   
 	
 ##Aarzel niet en schrijf in, de plaatsen zijn beperkt !
 
@@ -40,16 +38,19 @@ Op woensdag is er een halve vrije dag. We werken dan tot 12 h 00 en daarna is ie
 De laatste dag stoppen we om 17 h 00 zodat we het seminarie feestelijk kunnen afsluiten.  
 Op zaterdag vertrekt iedereen voor 10 h 00 weer naar huis.
 
+Er wordt een **masterclass** georganiseerd die voor **iedereen** openstaat. 
+Er wordt nadruk gelegd op hoe je de bewegingen en de houdingen precies uitlegt aan de studenten. De hele vorm wordt uitgelegd op die manier. De deelnemers aan dit seminarie krijgen een **getuigschrift**. De bedoeling is om het jaar daarop weer een masterclass te organiseren waar een diploma wordt uitgereikt.
+
 **Je kan uiteraard deelnemen aan meerdere stages.**
 ##Praktisch
 
-* De totale prijs voor de stage bedraagt **675 &euro;**. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
+* De totale prijs voor de stage bedraagt **680 &euro;**. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
 * Een voorschot van **200 &euro;** wordt gevraagd. **Pas na ontvangst** ervan is jullie plaats **verzekerd**. Zoniet komt de plaats automatisch terug vrij. Het voorschot is niet recupereerbaar.
 * Wie een 2-persoonskamer wil, betaalt daarvoor 100 &euro;/kamer extra.
 * Lakens kan je ter plaatse verkrijgen voor 5 &euro;.
 
 
-Een echte kokkin zal ons ontbijt, middagmaal en avondmaal ter plaatse verzorgen, we eten vegetqrisch. De keukenploeg help daarbij en verzorgt ook de versnaperingen.  Het meeste werk zal door de keukenploeg worden gedaan maar wat hulp is altijd welkom bij het afruimen en afwassen. Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit.
+Een echte kok zal ons ontbijt, middagmaal en avondmaal ter plaatse verzorgen, we eten vegetqrisch. De keukenploeg help daarbij en verzorgt ook de versnaperingen.  Het meeste werk zal door de keukenploeg worden gedaan maar wat hulp is altijd welkom bij het afruimen en afwassen. Tijdens de pauzes zullen we op het veld kunnen genieten van versnaperingen en fruit.
 
 **Vervoer: ** Via TGV, Ryanair, eigen wagen of carpooling raak je ginder. Laat dus ook even weten hoe je wenst te reizen. Als je plaats in je wagen hebt, meld dan hoeveel zodat eventuele carpoolers afspraken kunnen maken met elkaar. Het reizen regelen jullie zelf.
 
@@ -70,13 +71,13 @@ BIC : KREDBEBB
 
 Voorschot voor de stages:
 
-* Stages Mei 2016 &ndash; te storten voor 30 december 2015
-* Stages Augustus 2016 &ndash; te storten voor 30 maart 2016
+* Stages Mei 2017 &ndash; te storten voor 30 december 2016
+* Stages Augustus 2017 &ndash; te storten voor 30 maart 2017
 
 Resterend bedrag voor de stages:
 
-* Stages Mei 2016 &ndash; te storten voor 15 maart 2016
-* Stages Augustus 2016 &ndash; te storten voor 15 juni 2016-->
+* Stages Mei 2017 &ndash; te storten voor 15 maart 2017
+* Stages Augustus 2017 &ndash; te storten voor 15 juni 2017 
 
 **Denk eraan:  
 Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.

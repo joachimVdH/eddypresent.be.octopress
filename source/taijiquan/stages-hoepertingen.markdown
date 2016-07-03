@@ -8,12 +8,12 @@ footer: true
 ---
 ###Intensieve TaiJi-weekends 
 
-* ###Van zaterdag 21 november tot zondag 22 november 2015
-* ###Van zaterdag 5 maart tot zondag 6 maart 2016
+* ###Van zaterdag 19 november tot zondag 20 november 2016
+* ###Van zaterdag 18 maart tot zondag 19 maart 2017
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
  
-Het taiji weekend gaat door op een nieuwe locatie : Kasteel Mariagaarde in Hoepertingen.
+Het taiji weekend gaat door in het Kasteel Mariagaarde in Hoepertingen.
 Het is een unieke stilteplek in het historisch kader van de vroegere waterburcht en het huidige 18de eeuws kasteel, omgeven door een park.
 
 ##Programma
@@ -37,8 +37,8 @@ Zondag:
 
 Het weekend staat in het teken van :
 
-* november 15: het eerste stuk van deel 3 van de vorm
-* maart 16: het tweede stuk van deel 3 van de vorm
+* november 16: hele vorm energetisch
+* maart 17: hele vorm energetisch
 
 ##	Praktisch
 
@@ -66,10 +66,10 @@ De organisatie van dit weekend is in handen van Mia Fahy.&nbsp;<br />Inschrijven
 ( tel: 015 / 27 80 05 -&nbsp;gsm: 0495 / 49 44 20 )
 
 
-A: logeren in een twee- of driepersoonskamer: € **260**,-  
-B: logeren in een éénpersoonskamer: € **280**,-
+A: logeren in een twee- of driepersoonskamer: € **265**,-  
+B: logeren in een éénpersoonskamer: € **285**,-
 
 Voorschot en saldo kan je betalen op rekeningnummer **BE88 9731 1656 5641** , bic ARSPBE22
 
 Voorschot van €100,- te betalen bij inschrijving;   
-Vermeld duidelijk je naam, **TAI JI NOV 2015** en/of **TAI JI MRT 2016** en de gewenste verblijfsformule (A of B).
+Vermeld duidelijk je naam, **TAI JI NOV 2016** en/of **TAI JI MRT 2017** en de gewenste verblijfsformule (A of B).

@@ -18,6 +18,7 @@ footer: true
 * <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
 * <a href="http://www.tcqg.be" target="_blank">TaijiQuan &amp; QiGong met Mathieu Meul</a>
 * <a href="http://www.sjatao.be" target="_blank">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
+* <a href="http://lauralaguna.wix.com/photography-nature" target="_blank">Natuurfotografie door Laura Laguna Rodriguez</a>
 
 ## TaijiQuan
 
