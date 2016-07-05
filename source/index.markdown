@@ -24,11 +24,11 @@ Op donderdag 7-14-(21)-28 juli opent Monica haar deuren om 19u bij zomerweer. [R
 
 <hr>
 
-<!--**zie ook de agenda's** 
+**zie ook de agenda's** 
 
-* [Download Agenda Mechelen 2015-2016 - pdf - 55kb - laatste aanpassing : 8 nov '15](/flyers/Agenda_Mechelen_2015-2016.pdf)  
-* [Download Agenda Grimbergen 2015-2016 - pdf - 55kb - laatste aanpassing : 4 okt '15](/flyers/Agenda_Grimbergen_2015-2016.pdf) 
--->
+* [Download Agenda Mechelen 2016 - pdf - 43kb - laatste aanpassing : 28 jun '16](/flyers/Agenda_Mechelen_2016.pdf)  
+* [Download Agenda Grimbergen 2016 - pdf - 43kb - laatste aanpassing : 28 jun '16](/flyers/Agenda_Grimbergen_2016.pdf) 
+
 
 <iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
 

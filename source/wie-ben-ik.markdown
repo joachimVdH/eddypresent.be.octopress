@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 
-Eddy Present is een **professionele** lesgever. Hij beoefent meer dan 37 jaar lang Taiji en geeft al meer dan 27 jaar les op verschillende plaatsen in het land.
+Eddy Present is een **professionele** lesgever. Hij beoefent meer dan {{ 2016 | minus: 1978 }} jaar lang Taiji en geeft al meer dan {{ 2016 | minus: 1988 }} jaar les op verschillende plaatsen in het land.
 
 Op het BuQi-instituut behaalde hij het diploma en het certificaat van BuQi-healer.  
 Hij volgde TaiJiQuan, Taiji37, QiGong, en de TaiJi-zwaardvorm bij de bekende Grootmeester Dr. Shen HongXun.  
@@ -21,6 +21,10 @@ Eddy Present geeft ook therapeutische sessies voor al jouw problemen (op afspraa
 Elk jaar worden er ook [Taijiquan vorm weekends](/taijiquan/stages-hoepertingen.html) en [seminaries in het Zuiden van Frankrijk](/taijiquan/stages-zuid-frankrijk.html) georganiseerd waarin we intensief en diepgaand ingaan op Taiji en Qi (energie).
 
 Deze zijn zeer gewild vanwege hun diepgaand effect op lichaam en geest.  
+
+In 2016 verscheen een artikel over Eddy in Change. [Lees het hier online](/flyers/Change_EddyPresent.pdf).
+
+
 ###<a id="inlichtingen" name="inlichtingen"></a>Voor alle inlichtingen
 
 Eddy Present  
