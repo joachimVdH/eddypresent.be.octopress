@@ -11,14 +11,21 @@ footer: true
 ## Vrienden
 
 * <a href="http://kindertalent.be/" target="_blank">Kindertalent met Léonie van Wissen</a>
-* <a href="http://taichimetkarinedutli.be" target="_blank">Tai Chi met Karine Dutli</a>
 * <a href="http://www.kristin-maesschalck.be/" target="_blank">Kristin Maesschalck - Shiatsu - Stoelmassage - Droomanalyse - Familieopstellingen</a>
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
-* <a href="http://www.centrumojo.be/" target="_blank">Taiji met Inge Van den Eynde</a>
 * <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
-* <a href="http://www.tcqg.be" target="_blank">TaijiQuan &amp; QiGong met Mathieu Meul</a>
-* <a href="http://www.sjatao.be" target="_blank">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
 * <a href="http://lauralaguna.wix.com/photography-nature" target="_blank">Natuurfotografie door Laura Laguna Rodriguez</a>
+* <a href="http://www.licht-energie.be/" target="_blank">Christine Duron - Licht-Energie - Energietherapie - Lichttherapie - Relaxatietherapie - meditatie</a>
+
+## Vrienden die TaijiQuan les geven
+
+* <a href="http://www.sjatao.be" target="_blank">SjaTao : Tai Chi, life coaching, sportbegeleiding, zingevende workshops en info-avonden</a>
+* <a href="http://taichimetkarinedutli.be" target="_blank">Tai Chi met Karine Dutli</a>
+* <a href="http://www.tcqg.be" target="_blank">TaijiQuan &amp; QiGong met Mathieu Meul</a>
+* <a href="http://www.taichiverenigingliedekerke.simplesite.com" target="_blank">Tai Chi Vereniging Liedekerke met Martin  Strynck</a>
+* <a href="http://marchermans.be/" target="_blank">TaijiQuan met Marc Hermans</a>
+* <a href="http://www.centrumojo.be/" target="_blank">Taiji met Inge Van den Eynde</a>
+
 
 ## TaijiQuan
 

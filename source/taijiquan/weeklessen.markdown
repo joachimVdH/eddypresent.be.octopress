@@ -84,7 +84,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 * Heel vergevorderd: 20:30 tot 22:00
 
 	
-#Lesgelden (BTW inbegrepen)
+##Lesgelden (BTW inbegrepen)
 * per les van 1,5 uur = 13 &euro;
 * per 10 beurtenkaart = 120 &euro;
 
