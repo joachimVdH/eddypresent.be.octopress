@@ -6,8 +6,7 @@ comments: false
 sharing: false  
 footer: true
 ---
-
-#### 11 november geen les, agenda's zijn aangepast.
+#### Seminarie Mei 1 nu ook een Masterclass !!
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="750" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
@@ -23,7 +22,7 @@ Later meer informatie via [sjatao website](http://sjatao.be/cur-bewustzijn.html)
 
 ### De agenda's
 
-* [Download Agenda Mechelen 2016 - pdf - 43kb - laatste aanpassing : 28 jun '16](/flyers/Agenda_Mechelen_2016.pdf)  
+* [Download Agenda Mechelen 2016 - pdf - 43kb - laatste aanpassing : 1 okt '16](/flyers/Agenda_Mechelen_2016.pdf)  
 * [Download Agenda Grimbergen 2016 - pdf - 43kb - laatste aanpassing : 7 sep '16](/flyers/Agenda_Grimbergen_2016.pdf) 
 
 <hr>
