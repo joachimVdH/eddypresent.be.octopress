@@ -9,17 +9,17 @@ footer: true
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
 
-* ###*!!!* Mei 1: 20 mei tot 27 mei 2017 - Masterclass *!!!* 
-* ###Mei 2: 27 mei tot 3 juni 2017 - Masterclass
-* ###Augustus : 12 to 19 augustus 2017 - Masterclass
-* ###Augustus : 19 to 26 augustus 2017
+* ### Mei 1: 20 mei tot 27 mei 2017 - Masterclass
+* ### Mei 2: 27 mei tot 3 juni 2017 - Masterclass
+* ### Augustus : 12 to 19 augustus 2017 - Masterclass
+* ### Augustus : 19 to 26 augustus 2017
 
 
 
- *!!! Pas als **Mei 2 volzet** is, kan Mei 1 plaats hebben.   
-**Volzet** wil zeggen **21** mensen.  
-Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.  
-Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan*** 
+ <!-- *!!! Pas als **Mei 2 volzet** is, kan Mei 1 plaats hebben.    -->
+<!-- **Volzet** wil zeggen **21** mensen.   -->
+<!-- Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.   -->
+<!-- Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan***  -->
 
 ####Schrijf in **voor 15 december 2016** zodat de gite kan vast gelegd worden.
    
