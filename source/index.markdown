@@ -31,6 +31,10 @@ Later meer informatie via [sjatao website](http://sjatao.be/cur-bewustzijn.html)
 * [Download Agenda Grimbergen 2017 - pdf - 42kb - laatste aanpassing : 17 dec '16](/flyers/Agenda_Grimbergen_2017.pdf)
 
 <hr>
+
+[De tocht van de leider : Een ontwikkelingstraject in PERSOONLIJK LEIDERSCHAP tijdens een 5-daagse BERGHUTTENTOCHT in de Alpen](/flyers/De tocht van de leider.pdf)
+
+<hr>
 ### Oefenen in Elewijt
 Op zondag 25 sep, 30 okt, 27 nov, 18 dec, 29 jan, 26 feb, 26 maa, 30 apr in de [budohal](https://goo.gl/maps/t3k7e65hYV12 ) om 16:30 tot 18:30.
 Er word geen les gegeven, wel verdiepen we ons in het martiale bewegingen, pushing hands, Pakua en andere. Kosten van de zaal worden gedeeld onder de aanwezigen (20 euro voor 2 uur).  
