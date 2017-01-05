@@ -9,7 +9,7 @@ footer: true
 ###Intensieve TaiJi-weekends 
 
 * ###Van zaterdag 19 november tot zondag 20 november 2016
-* ###Van zaterdag 18 maart tot zondag 19 maart 2017
+* ###~~Van zaterdag 18 maart tot zondag 19 maart 2017~~ AFGELAST
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
  

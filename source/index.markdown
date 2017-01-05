@@ -7,10 +7,9 @@ sharing: false
 footer: true
 ---
 
-### Dinsdag 20 en donderdag 22 december GEEN les in Mechelen 
-### Woensdag 21 december geeft Anne-Marie Van den Bossche les in Grimbergen.
 
-### Agenda 2017 beschikbaar - zie onderaan bij agenda's
+
+### Aangepaste agenda's 2017 beschikbaar - zie onderaan bij agenda's
 
 ### Alle seminaries gaan door en Mei 1 is nu ook een Masterclass !!
 
@@ -21,10 +20,8 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ### De agenda's
 
-* [Download Agenda Mechelen 2016 - pdf - 43kb - laatste aanpassing : 1 okt '16](/flyers/Agenda_Mechelen_2016.pdf)  
-* [Download Agenda Grimbergen 2016 - pdf - 43kb - laatste aanpassing : 7 sep '16](/flyers/Agenda_Grimbergen_2016.pdf)
-* [Download Agenda Mechelen 2017 - pdf - 37kb - laatste aanpassing : 17 dec '16](/flyers/Agenda_Mechelen_2017.pdf)
-* [Download Agenda Grimbergen 2017 - pdf - 42kb - laatste aanpassing : 17 dec '16](/flyers/Agenda_Grimbergen_2017.pdf)
+* [Download Agenda Mechelen 2017 - pdf - 37kb - laatste aanpassing : 5 jan '17](/flyers/Agenda_Mechelen_2017.pdf)
+* [Download Agenda Grimbergen 2017 - pdf - 42kb - laatste aanpassing : 5 jan '17](/flyers/Agenda_Grimbergen_2017.pdf)
 
 <hr>
 
@@ -35,11 +32,8 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 Op zondag 29 jan, 26 feb, 26 maa, 30 apr in de [budohal](https://goo.gl/maps/t3k7e65hYV12 ) om 16:30 tot 18:30.
 Er word geen les gegeven, wel verdiepen we ons in het martiale bewegingen, pushing hands, Pakua en andere. Kosten van de zaal worden gedeeld onder de aanwezigen (20 euro voor 2 uur).  
 
-
 <iframe width="560"  height="315" src="//www.youtube.com/embed/bjQ3ZA9TKTk?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
 
 ---
 
-[![Naturopathica](images/naturopathica.jpg)](http://www.naturopathica.be/)
+[![Naturopathica](/images/naturopathica.jpg)](http://www.naturopathica.be/)
