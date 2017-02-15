@@ -8,8 +8,57 @@ footer: true
 ---
 
 
+Lieve mensen, 
+ 
+ ![Eddy in 't hospitaal](/images/eddyHospitaal.jpg)
 
-### Aangepaste agenda's 2017 beschikbaar - zie onderaan bij agenda's
+Hier zien jullie een foto van gisteren. 
+Toen lag hij nog op de intensieve zorgen, zojuist is hij verhuisd naar de 
+kamer. 
+Dat ging gepaard met het afkoppelen van de helft van de slangen en 
+apparaten, dus dat nam even tijd. 
+
+Het gaat echt heel goed met hem, vooral ook omdat hij erg opgelucht is. 
+Het letsel is er in zijn geheel en 'verpakt in de bovenste longkwab' 
+uitgevist en de operatie duurde daardoor maar 4 uur ipv 7, en nu is hij 
+'genezen'. 
+De heling van zijn lichaam met een flink stel gekneusde ribben is net 
+begonnen, maar de pijnpomp neemt de scherpe kantjes ervan af. 
+
+Zijn longkwab mist hij niet erg, want die bleek nog nauwelijks deel te nemen 
+aan de zuurstofvoorziening wegens longemfyseem. Zijn saturatie is 100 %! 
+Zijn longen waren toch wel beschadigd door het roken, zeiden de chirurgen. 
+Verbazingwekkend als je bedenkt dat hij langer gestopt is dan dat hij 
+gerookt heeft en dat het nu toch al zo'n 24 jaar geleden is dat hij de 
+laatste opgestoken heeft. 
+En nog meer omdat 'alle cellen zich vernieuwen elke 7 jaar'. Dat beaamden de 
+artsen, maar rookschade wil zeggen 'gaten' in je longen en de cellen worden 
+dan wel vernieuwd, maar gaten vullen zich niet op. Een geamputeerd been 
+groeit ook niet meer aan. Soit, hij heeft een uitstekende longcapaciteit 
+dankzij de taiji zeggen de artsen. 
+
+Eddy zelf is vrolijk, opgewekt, belangstellend, babbelt en is empathisch en 
+betrokken! Met een warm hart! 
+Het is heerlijk om hem terug zo levend te zien, hij heeft weer spirit en 
+vuur! 
+
+Hij zal nog ongeveer een week in het ziekenhuis blijven. Hij heeft zijn gsm 
+en Ipad bij hem dus je kunt een mailtje of smsje sturen. Bezoek houdt hij 
+liever beperkt tot familie en close friends. Hij ligt niet alleen en zijn 
+kamergenoot is ook aan rust toe. 
+
+Eddy is zeeeeeer dankbaar voor alle steun die hij heeft gekregen en nog 
+krijgt. Het was dan ook duidelijk voelbaar en nog steeds! Echt heel erg 
+bedankt! 
+
+De mensen voor de mei retraite kunnen zich alvast verwachten aan een zeer 
+gemotiveerde Eddy :) 
+
+Warme groeten, 
+Léonie en Eddy 
+
+
+<hr>
 
 ### Alle seminaries gaan door en Mei 1 is nu ook een Masterclass !!
 
