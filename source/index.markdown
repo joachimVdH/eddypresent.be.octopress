@@ -8,16 +8,18 @@ footer: true
 ---
 
 
-Lieve mensen, 
- 
-Bijna thuis!   
-Terug bewegingsvrijheid...   
-Alles is okay, ribben nog gevoelig...   
-nu beginnen werken aan goede conditie. 
-  
-Veel groetjes, Eddy 
+Lieve mensen,
 
- ![Eddy OK](/images/EddyOK.JPG)
+Eddy is weer thuis!  
+Hij heeft een stoere ritssluiting rond zijn borstkas, voor de Frankrijk gangers te bewonderen in mei.  
+Nu kan hij terug op krachten komen en weer lekker eten, want het eten in de kliniek was gene vette.  
+De artsen zijn zeer tevreden en verbaasd over zijn snelle heling...  
+Hihi wij niet, dank jullie nogmaals voor alle hulp!
+
+Warme groeten,  
+Eddy
+
+ ![Eddy OK](/images/EddyThuis.jpg)
 
 <hr>
 
