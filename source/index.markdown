@@ -8,22 +8,12 @@ footer: true
 ---
 
 
-Lieve mensen,
+Hallo iedereen,
 
-Eddy is weer thuis!  
-Hij heeft een stoere ritssluiting rond zijn borstkas, voor de Frankrijk gangers te bewonderen in mei.  
-Nu kan hij terug op krachten komen en weer lekker eten, want het eten in de kliniek was gene vette.  
-De artsen zijn zeer tevreden en verbaasd over zijn snelle heling...  
-Hihi wij niet, dank jullie nogmaals voor alle hulp!
+Omdat er vrijdag, 16 juni veel afwezigen waren en zoals het er nu uitziet de volgende vrijdagen ook, heb ik besloten om de twee lessen van vrijdagavond, 23 en 30 juni samen te voegen. 
 
-Warme groeten,  
-Eddy
+Die lessen zijn dan van 20 h 00 tot 21 h 30.
 
- ![Eddy OK](/images/EddyThuis.jpg)
-
-<hr>
-
-### Alle seminaries gaan door en Mei 1 is nu ook een Masterclass !!
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="750" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
