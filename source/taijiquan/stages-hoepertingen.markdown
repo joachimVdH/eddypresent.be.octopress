@@ -8,8 +8,9 @@ footer: true
 ---
 ###Intensieve TaiJi-weekends 
 
-* ###Van zaterdag 19 november tot zondag 20 november 2016
-* ###~~Van zaterdag 18 maart tot zondag 19 maart 2017~~ AFGELAST
+* ###Van zaterdag 25 november tot zondag 26 november 2017
+* ###Van zaterdag 17 maart tot zondag 18 maart 2018
+
 
 ####In het Kasteel Mariagaarde te Hoepertingen.
  
@@ -37,8 +38,8 @@ Zondag:
 
 Het weekend staat in het teken van :
 
-* november 16: hele vorm energetisch
-* maart 17: hele vorm energetisch
+* november 17: hele vorm energetisch
+* maart 18: hele vorm energetisch
 
 ##	Praktisch
 
@@ -72,4 +73,4 @@ B: logeren in een éénpersoonskamer: € **285**,-
 Voorschot en saldo kan je betalen op rekeningnummer **BE88 9731 1656 5641** , bic ARSPBE22
 
 Voorschot van €100,- te betalen bij inschrijving;   
-Vermeld duidelijk je naam, **TAI JI NOV 2016** en/of **TAI JI MRT 2017** en de gewenste verblijfsformule (A of B).
+Vermeld duidelijk je naam, **TAI JI NOV 2017** en/of **TAI JI MRT 2018** en de gewenste verblijfsformule (A of B).

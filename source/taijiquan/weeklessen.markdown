@@ -30,14 +30,14 @@ footer: true
 	<td>18:45-20:15 Vergevorderd Mechelen </td>
 	<td>18:45-20:15 Vergevorderd Grimbergen </td>
 	<td>18:45-20:15 Vergevorderd Mechelen </td>
-	<td>18:45-20:15 Vergevorderd Grimbergen </td>
+	<td>&nbsp;</td>
 </tr>
 <tr>
 	<td> 20:30-22:00 Gevorderd Grimbergen </td>
 	<td> 20:30-22:00 Halfgevorderd Mechelen </td>
 	<td> 20:30-22:00 Halfgevorderd Grimbergen </td>
 	<td> 20:30-22:00 Heel vergevorderd Mechelen </td>
-	<td> 20:30-22:00 Heel vergevorderd Grimbergen </td>
+	<td> 20:00-21:30 Heel vergevorderd Grimbergen </td>
 </tr>
 </tbody>
 </table>
@@ -47,7 +47,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 
 #Mechelen
-[Download Agenda Mechelen 2017 - pdf - 37kb](/flyers/Agenda_Mechelen_2017.pdf) 
+[Download Agenda Mechelen 2017 najaar - pdf - 37kb](/flyers/Agenda_Mechelen_2017_najaar.pdf) 
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16)
 
@@ -64,7 +64,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 
 #Grimbergen
-[Download Agenda Grimbergen 2017 - pdf - 42kb](/flyers/Agenda_Grimbergen_2017.pdf) 
+[Download Agenda Grimbergen 2017 najaar - pdf - 42kb](/flyers/Agenda_Grimbergen_2017_najaar.pdf) 
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://maps.google.be/maps?q=Charleroyhoeve&hl=en&cid=8409502946449306745&gl=BE&t=m&z=16&iwloc=A)
 
@@ -80,8 +80,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 * Vergevorderd: 14:00 tot 15:30
 
 ###Elke vrijdagavond
-* Vergevorderd: 18:45 tot 20:15
-* Heel vergevorderd: 20:30 tot 22:00
+* Heel vergevorderd: 20:00 tot 21:30,
 
 	
 ##Lesgelden (BTW inbegrepen)

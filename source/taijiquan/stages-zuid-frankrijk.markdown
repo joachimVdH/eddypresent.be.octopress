@@ -9,19 +9,16 @@ footer: true
 ##Wil je graag TaiJi intensief en diepgaand oefenen in de natuur van het zonnige zuiden?
 
 
-* ### Mei 1: 20 mei tot 27 mei 2017 - Masterclass
-* ### Mei 2: 27 mei tot 3 juni 2017 - Masterclass
-* ### Augustus : 12 to 19 augustus 2017 - Masterclass
-* ### Augustus : 19 to 26 augustus 2017
+* ### Mei 1: 19 mei tot 26 mei 2018 - Masterclass 
+* ### Mei 2: 26 mei tot 2 juni 2018 - Masterclass
+* ### Augustus 1: 11 to 18 augustus 2018 - Masterclass
+* ### Augustus 2: 18 to 25 augustus 2018 - Masterclass - onder voorbehoud 
 
 
+Als de seminaries in mei of augustus te weinig deelnemers hebben dan zal één van de twee geannuleerd worden.   
+Welke hangt af van de ingeschreven deelnemers of er wordt beslist in overleg met de deelnemers.   
 
- <!-- *!!! Pas als **Mei 2 volzet** is, kan Mei 1 plaats hebben.    -->
-<!-- **Volzet** wil zeggen **21** mensen.   -->
-<!-- Dus Mei 1 is **optioneel** en gaat door als er **minimum** is van **16** deelnemers zijn.   -->
-<!-- Wil je er **zeker** bij zijn, schrijf dan **tijdig** in en zo vroeg mogelijk, dan weet ik of ik het tweede seminarie kan laten **doorgaan***  -->
-
-####Schrijf in **voor 15 december 2016** zodat de gite kan vast gelegd worden.
+####Schrijf in **voor 15 december 2017** zodat de gite vastgelegd kan worden.
    
 	
 ##Aarzel niet en schrijf in, de plaatsen zijn beperkt !
@@ -44,7 +41,7 @@ Er wordt nadruk gelegd op hoe je de bewegingen en de houdingen precies uitlegt a
 **Je kan uiteraard deelnemen aan meerdere stages.**
 ##Praktisch
 
-* De totale prijs voor de stage bedraagt **680 &euro;**. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
+* De totale prijs voor de stage bedraagt **690 &euro;**. Volpension, behalve de avondmaaltijd op de vrije dag. In St. Martin-des-Londres of Ganges zijn er mooie en gezellige restaurants te vinden.
 * Een voorschot van **200 &euro;** wordt gevraagd. **Pas na ontvangst** ervan is jullie plaats **verzekerd**. Zoniet komt de plaats automatisch terug vrij. Het voorschot is niet recupereerbaar.
 * Wie een 2-persoonskamer wil, betaalt daarvoor 100 &euro;/kamer extra.
 * Lakens kan je ter plaatse verkrijgen voor 5 &euro;.
@@ -71,13 +68,13 @@ BIC : KREDBEBB
 
 Voorschot voor de stages:
 
-* Stages Mei 2017 &ndash; te storten voor 30 december 2016
-* Stages Augustus 2017 &ndash; te storten voor 30 maart 2017
+* Stages Mei 2018 &ndash; te storten voor 30 december 2017
+* Stages Augustus 2018 &ndash; te storten voor 30 maart 2018
 
 Resterend bedrag voor de stages:
 
-* Stages Mei 2017 &ndash; te storten voor 15 maart 2017
-* Stages Augustus 2017 &ndash; te storten voor 15 juni 2017 
+* Stages Mei 2018 &ndash; te storten voor 15 maart 2018
+* Stages Augustus 2018 &ndash; te storten voor 15 juni 2018 
 
 **Denk eraan:  
 Vermits er weer een aantal mensen waren die zich hadden ingeschreven en geen voorschot hadden betaald en last minute toch annuleerden is je plaats pas zeker als het voorschot op tijd is gestort! Zo niet gaat je plaats automatisch naar een andere deelnemer.
