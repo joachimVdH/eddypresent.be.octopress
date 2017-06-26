@@ -67,8 +67,8 @@ De organisatie van dit weekend is in handen van Mia Fahy.&nbsp;<br />Inschrijven
 ( tel: 015 / 27 80 05 -&nbsp;gsm: 0495 / 49 44 20 )
 
 
-A: logeren in een twee- of driepersoonskamer: € **265**,-  
-B: logeren in een éénpersoonskamer: € **285**,-
+A: logeren in een twee- of driepersoonskamer: € **275**,-  
+B: logeren in een éénpersoonskamer: € **295**,-
 
 Voorschot en saldo kan je betalen op rekeningnummer **BE88 9731 1656 5641** , bic ARSPBE22
 

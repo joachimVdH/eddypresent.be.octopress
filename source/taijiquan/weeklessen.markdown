@@ -26,8 +26,8 @@ footer: true
 	<td>14:00-15:30 Vergevorderd Grimbergen </td>
 </tr>
 <tr>
-	<td>18:45-20:15 Vergevorderd Grimbergen </td>
-	<td>18:45-20:15 Vergevorderd Mechelen </td>
+	<td>18:45-20:15 Gevorderd Grimbergen </td>
+	<td>18:45-20:15 Gevorderd Mechelen </td>
 	<td>18:45-20:15 Vergevorderd Grimbergen </td>
 	<td>18:45-20:15 Vergevorderd Mechelen </td>
 	<td>&nbsp;</td>
@@ -36,8 +36,8 @@ footer: true
 	<td> 20:30-22:00 Gevorderd Grimbergen </td>
 	<td> 20:30-22:00 Halfgevorderd Mechelen </td>
 	<td> 20:30-22:00 Halfgevorderd Grimbergen </td>
-	<td> 20:30-22:00 Heel vergevorderd Mechelen </td>
-	<td> 20:00-21:30 Heel vergevorderd Grimbergen </td>
+	<td> 20:30-22:00 Vergevorderd Mechelen </td>
+	<td> 20:00-21:30 Vergevorderd Grimbergen </td>
 </tr>
 </tbody>
 </table>
@@ -53,12 +53,12 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 
 ###Elke dinsdagavond
-* Vergevorderd : 18:45 tot 20:15
+* Gevorderd : 18:45 tot 20:15
 * Halfgevorderd : 20:30 tot 22:00
 
 ###Elke donderdagavond
 * Vergevorderd: 18:45 tot 20:15
-* Heel vergevorderd: 20:30 tot 22:00
+* Vergevorderd: 20:30 tot 22:00
 
 
 
@@ -69,7 +69,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://maps.google.be/maps?q=Charleroyhoeve&hl=en&cid=8409502946449306745&gl=BE&t=m&z=16&iwloc=A)
 
 ###Elke maandagavond
-* Vergevorderd : 18:45 tot 20:15
+* Gevorderd : 18:45 tot 20:15
 * Gevorderd : 20:30 tot 22:00
 
 ###Elke woensdagavond
@@ -80,7 +80,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 * Vergevorderd: 14:00 tot 15:30
 
 ###Elke vrijdagavond
-* Heel vergevorderd: 20:00 tot 21:30,
+* Vergevorderd: 20:00 tot 21:30,
 
 	
 ##Lesgelden (BTW inbegrepen)
