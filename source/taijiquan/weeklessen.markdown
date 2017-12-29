@@ -1,4 +1,4 @@
---- 
+---
 layout: page
 title: Weeklessen
 created: 1309113981
@@ -6,7 +6,6 @@ comments: false
 sharing: false
 footer: true
 ---
-
 <table>
 <thead>
 <tr>
@@ -47,7 +46,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 
 #Mechelen
-[Download Agenda Mechelen 2017 najaar - pdf - 37kb](/flyers/Agenda_Mechelen_2017_najaar.pdf) 
+[Download Agenda Mechelen 2018 voorjaar - pdf - 37kb](/flyers/Agenda_Mechelen_2018_voorjaar.pdf) 
 
 [Basisschool "De Spreeuwen", Battelsesteenweg 259, Mechelen](https://maps.google.be/maps?q=51.030872,4.461348&hl=en&num=1&gl=BE&t=m&z=16)
 
@@ -64,7 +63,7 @@ Gemakkelijke kledij en platte pantoffeltjes zijn aanbevolen. Iets om te drinken 
 
 
 #Grimbergen
-[Download Agenda Grimbergen 2017 najaar - pdf - 42kb](/flyers/Agenda_Grimbergen_2017_najaar.pdf) 
+[Download Agenda Grimbergen 2018 voorjaar - pdf - 42kb](/flyers/Agenda_Grimbergen_2018_voorjaar.pdf) 
 
 [Charleroyhoeve, Lierbaan, Grimbergen](https://maps.google.be/maps?q=Charleroyhoeve&hl=en&cid=8409502946449306745&gl=BE&t=m&z=16&iwloc=A)
 
