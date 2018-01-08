@@ -12,10 +12,15 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
+
 ### De agenda's
 
 * [Download Agenda Mechelen 2018 voorjaar - pdf - 40kb - laatste aanpassing : 29 dec '17](/flyers/Agenda_Mechelen_2018_voorjaar.pdf)
 * [Download Agenda Grimbergen 2018 voorjaar - pdf - 41kb - laatste aanpassing : 29 dec '17](/flyers/Agenda_Grimbergen_2018_voorjaar.pdf)
+
+---
+
+[De tocht van de leider : Een ontwikkelingstraject in PERSOONLIJK LEIDERSCHAP tijdens een 5-daagse BERGHUTTENTOCHT in de Alpen](http://www.assess.be/programmas/tocht-van-de-leider/?fromEddyPresent)
 
 ---
 Taiji artikel in Bodytalk magazine - [lees de pdf](/flyers/TaiChi_voor_lichaam_en_geest_bodytalk.PDF)
