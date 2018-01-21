@@ -9,6 +9,7 @@ Nieuwe cursus De Natuur van Bewustzijn - [lees de pdf flyer](/flyers/2018_Natuur
 [op de website van assess.be](http://www.assess.be/programmas/de-natuur-van-bewustzijn/?fromEddyPresent)
 
 ---
+---
 ### Wat is bewustzijn?
 ### Wat is de natuur van bewustzijn?
 ### Wat zijn de niveaus van bewustzijn?
