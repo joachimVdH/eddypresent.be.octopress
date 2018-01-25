@@ -12,6 +12,9 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
+Op donderdag 22 februari geeft Eddy een uiteenzetting over de positieve effecten van Taijiquan. Meer informatie op de [website van SjaTao](http://www.sjatao.be/ws-taichi.html)
+
+---
 
 ### De agenda's
 
