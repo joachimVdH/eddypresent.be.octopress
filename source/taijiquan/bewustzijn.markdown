@@ -6,7 +6,8 @@ sharing: false
 footer: true
 ---
 Nieuwe cursus De Natuur van Bewustzijn - [lees de pdf flyer](/flyers/2018_NatuurVanBewustzijn.pdf) of op de website van 
-[op de website van assess.be](http://www.assess.be/programmas/de-natuur-van-bewustzijn/?fromEddyPresent)
+[op de website van assess.be](http://www.assess.be/programmas/de-natuur-van-bewustzijn/?fromEddyPresent)  
+Taiji-studenten kunnen aan deze cursus deelnemen voor de prijs van 550,- Euro.
 
 ---
 ---
