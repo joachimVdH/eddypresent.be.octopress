@@ -12,14 +12,11 @@ footer: true
 Je kan je abonneren op de google calenders door op het google logo te drukken
 
 ---
-Op donderdag 22 februari geeft Eddy een uiteenzetting over de positieve effecten van Taijiquan. Meer informatie op de [website van SjaTao](http://www.sjatao.be/ws-taichi.html)
-
----
 
 ### De agenda's
 
-* [Download Agenda Mechelen 2018 voorjaar - pdf - 40kb - laatste aanpassing : 29 dec '17](/flyers/Agenda_Mechelen_2018_voorjaar.pdf)
-* [Download Agenda Grimbergen 2018 voorjaar - pdf - 41kb - laatste aanpassing : 12 feb '18](/flyers/Agenda_Grimbergen_2018_voorjaar.pdf)
+* [Download Agenda Mechelen 2018 voorjaar - pdf - 40kb - laatste aanpassing : 29 mar '18](/flyers/Agenda_Mechelen_2018_voorjaar.pdf)
+* [Download Agenda Grimbergen 2018 voorjaar - pdf - 41kb - laatste aanpassing : 29 mar '18](/flyers/Agenda_Grimbergen_2018_voorjaar.pdf)
 
 ---
 Nieuwe cursus De Natuur van Bewustzijn - [lees de pdf flyer](/flyers/2018_NatuurVanBewustzijn.pdf) of op de website van 
