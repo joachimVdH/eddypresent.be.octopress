@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Welkom	
+title: Welkom
 created: 1319663500
 comments: false
 sharing: false  
 footer: true
 ---
 ## Laat Eddy weten dat je komt naar zijn feest!
-[informatie in dit pdf document](/flyers/180911_Feest.pdf), stuur je [bevestiging via contact](contact.html) 
+[informatie in dit pdf document](/flyers/180911_Feest.pdf), stuur je [bevestiging via contact](contact.html)
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=eddypresent.website%40gmail.com&amp;color=%232F6309&amp;src=bnt52stornmaupomm1p01afrt0%40group.calendar.google.com&amp;color=%23125A12&amp;src=sv4bkhqqsf8snmhcjmhj8hqma4%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FBrussels" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 Je kan je abonneren op de google calenders door op het google logo te drukken
@@ -20,12 +20,6 @@ Je kan je abonneren op de google calenders door op het google logo te drukken
 * [Download Agenda Grimbergen 2018 voorjaar - pdf - 41kb - laatste aanpassing : 29 mar '18](/flyers/Agenda_Grimbergen_2018_voorjaar.pdf)
 
 ---
-Nieuwe cursus De Natuur van Bewustzijn - [lees de pdf flyer](/flyers/2018_NatuurVanBewustzijn.pdf) of op de website van 
-[op de website van assess.be](http://www.assess.be/programmas/de-natuur-van-bewustzijn/?fromEddyPresent)  
-Taiji-studenten kunnen aan deze cursus deelnemen voor de prijs van 550,- Euro.
-
----
-
 [De tocht van de leider : Een ontwikkelingstraject in PERSOONLIJK LEIDERSCHAP tijdens een 5-daagse BERGHUTTENTOCHT in de Alpen](http://www.assess.be/programmas/tocht-van-de-leider/?fromEddyPresent)
 
 ---
