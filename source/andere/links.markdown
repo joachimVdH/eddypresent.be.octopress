@@ -1,4 +1,4 @@
---- 
+---
 layout: page
 title: Links
 created: 1295518755
@@ -11,11 +11,13 @@ footer: true
 ## Vrienden
 
 * <a href="http://kindertalent.be/" target="_blank">Kindertalent met Léonie van Wissen</a>
+* <a href="https://tantra-re-source.com/" target="_blank">Siegfried Présent is een tantra instructeur en (tantra wellness) masseur.</a>
 * <a href="http://www.kristin-maesschalck.be/" target="_blank">Kristin Maesschalck - Shiatsu - Stoelmassage - Droomanalyse - Familieopstellingen</a>
 * <a href="http://www.ingrid-reiki.be" target="_blank">Ingrid Carpentier - Reiki - Munay-Ki - Nusta Karpay - … </a>
 * <a href="http://www.wolfsflow.be"  target="_blank">Ingrid Wolfs en de Wolfsruimte - coaching - training - workshops</a>
 * <a href="http://lauralaguna.wix.com/photography-nature" target="_blank">Natuurfotografie door Laura Laguna Rodriguez</a>
 * <a href="http://www.licht-energie.be/" target="_blank">Christine Duron - Licht-Energie - Energietherapie - Lichttherapie - Relaxatietherapie - meditatie</a>
+* <a href="http://www.ilsevanvaerenbergh.be/" target="_blank">Ilse Van Vaerenbergh - Energetische Behandelingen en Meditatie</a>
 
 ## Vrienden die TaijiQuan les geven
 
